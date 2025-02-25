@@ -43,11 +43,17 @@ _If this project interests you let me know: get in touch, star it, follow it, wh
 
 2. **Build the Tracewrap Binary**  
    ```bash
-   go build -o bin/tracewrap ./cmd/tracewrap
+   go build -o bin/tracewrap ./cmd/main.go
    ```
    This command compiles Tracewrap into an executable placed in the `bin/` directory.
 
 ---
+
+## CAVEATS
+
+See the [Dev Notes](#dev-notes) section below.
+
+There are some variables you need to export related to Go and Go Proxy servers. I am hoping to eradicate this need, but right now: too many other 🐟 to fry.
 
 ## Basic Usage
 
@@ -65,7 +71,7 @@ Tracewrap’s primary strength is its ability to instrument your project without
 3. **Run Tracewrap**  
    From within the example project directory, run:
    ```bash
-   ../../bin/tracewrap buildTracedApplication --project . --config tracewrap.yaml
+   ../../bin/tracewrap buildTracedApplication --name=simple --project . --config tracewrap.yaml
    ```
    - `--project .` instructs Tracewrap to instrument the current directory.
    - `--config tracewrap.yaml` specifies the configuration file.
@@ -105,29 +111,6 @@ Our repository includes several self-contained example projects under the `examp
    - **Path:** `examples/recursive`  
    - **Description:** Calculates Fibonacci numbers using a naive recursive approach.  
    - **Focus:** Highlights deep call stacks and recursive function invocations.
-
-### How to Run an Example
-
-1. **Initialize the Module (if not already done):**
-   ```bash
-   go mod init github.com/mwiater/tracewrap-<example-name>
-   ```
-2. **Build Tracewrap from the Repository Root:**
-   ```bash
-   go build -o bin/tracewrap ./cmd/main.go
-   ```
-3. **Move into the Example Directory:**
-   ```bash
-   cd examples/<example-name>
-   ```
-4. **Run Tracewrap:**
-   ```bash
-   ../../bin/tracewrap buildTracedApplication --name=<example-name> --project . --config tracewrap.yaml
-   ```
-5. **Generate the Call Graph:**
-   ```bash
-   dot -Tpng tracewrap/callgraph.dot -o tracewrap/callgraph.png
-   ```
 
 Refer to each example’s README.md for additional details and sample outputs.
 
