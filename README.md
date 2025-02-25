@@ -178,10 +178,9 @@ Remove remote tags: `git ls-remote --tags origin | awk '{print $2}' | sed 's/ref
 
 `go list -m -versions github.com/mwiater/tracewrap`
 
-
 Proxy is not in sync with github: `github.com/mwiater/tracewrap v0.1.0 v0.2.0 v0.3.0 v0.4.0 v0.5.0 v0.6.0 v0.7.0 v0.8.0 v0.9.0 v0.10.0 v0.11.0 v0.12.0 v0.13.0 v0.14.0`
 
-Add to shell:
+Add to shell (these are necessary for now until I can figuroute how to build the workspace without them):
 
 ```
 export GONOPROXY=github.com/mwiater/tracewrap
