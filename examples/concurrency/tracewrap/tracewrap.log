@@ -1,408 +1,408 @@
-2025/02/24 16:34:14 [TRACEWRAP] Entering main ID: 1
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 2
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 1
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 3
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 4
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 5
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 6
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 7
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 7
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 3
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 4
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 8
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 5
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 8
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Entering worker ID: 9
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 2
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Entering generateJobs ID: 10
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Parameter id = 6
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter n = 10
-2025/02/24 16:34:14 [TRACEWRAP] Parameter jobs = 0xc000198000
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs returning [[1 2 3 4 5 6 7 8 9 10]]
-2025/02/24 16:34:14 [TRACEWRAP] Parameter results = 0xc0001980c0
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Resource Usage - CPU Time: 203.125ms, HeapAlloc Diff: 700744
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Goroutines Spawned: 0
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Additional OS Threads Used: 292
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs GC Runs: 0
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Heap Allocated Delta: 702000, Heap Freed Delta: 0
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Network Usage Delta: 0, Disk I/O Delta: 1438
-2025/02/24 16:34:14 [TRACEWRAP] Function generateJobs Calls: 1
-2025/02/24 16:34:14 [TRACEWRAP] Exiting generateJobs, ID: 10, Duration: 138.6081ms, MemDiff: 94928 bytes
-2025/02/24 16:34:14 [TRACEWRAP] DEBUG: Total trace records now: 1
-2025/02/24 16:34:14 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8341581824 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 11
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 8
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 12
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 5
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 13
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 6
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 14
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 15
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 16
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 4
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 7
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 17
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 1
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 2
-2025/02/24 16:34:15 [TRACEWRAP] Entering processJob ID: 18
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 3
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [16]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 218.75ms, HeapAlloc Diff: 724192
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 314
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 724848, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [10]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 265.625ms, HeapAlloc Diff: 757944
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [6]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [4]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [12]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [2]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 234.375ms, HeapAlloc Diff: 429464
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 281.25ms, HeapAlloc Diff: 660456
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 281.25ms, HeapAlloc Diff: 727000
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [14]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: 744616
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob returning [8]
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 281.25ms, HeapAlloc Diff: 572008
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 312.5ms, HeapAlloc Diff: 804232
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 1948
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 419
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 361
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 393
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 409
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 421
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 1
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 385
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Additional OS Threads Used: 450
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 789304, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 18, Duration: 417.0611ms, MemDiff: 103008 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 2
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8355536896 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 460264, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 690752, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 756936, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 773816, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 576424, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Heap Allocated Delta: 807976, Heap Freed Delta: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 5220
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 2
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 5220
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 3
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 17, Duration: 552.2157ms, MemDiff: 654768 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 3
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8358510592 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 5141
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 16, Duration: 583.8572ms, MemDiff: 772848 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 4
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8357445632 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 5196
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 5470
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 19
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 6074
-2025/02/24 16:34:15 [TRACEWRAP] Parameter workerID = 6
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 4
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 5
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 8
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 19, Duration: 15.2841ms, MemDiff: 50704 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 5
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8357621760 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 6
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 7
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 15, Duration: 638.0652ms, MemDiff: 934856 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 6
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8357470208 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Parameter result = 16
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 14, Duration: 657.0882ms, MemDiff: 1044024 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 7
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8357736448 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 7083
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 13, Duration: 702.7485ms, MemDiff: 1110160 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 8
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8357965824 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 20
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 21
-2025/02/24 16:34:15 [TRACEWRAP] Parameter workerID = 5
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 6
-2025/02/24 16:34:15 [TRACEWRAP] Function processJob Calls: 8
-2025/02/24 16:34:15 [TRACEWRAP] Parameter workerID = 8
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 5
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 281.25ms, HeapAlloc Diff: 1105384
-2025/02/24 16:34:15 [TRACEWRAP] Parameter result = 12
-2025/02/24 16:34:15 [TRACEWRAP] Exiting processJob, ID: 21, Duration: 24.6773ms, MemDiff: 75312 bytes
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: Total trace records now: 9
-2025/02/24 16:34:15 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8358821888 bytes
-2025/02/24 16:34:15 [TRACEWRAP] Parameter result = 10
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 22
-2025/02/24 16:34:15 [TRACEWRAP] Parameter workerID = 3
-2025/02/24 16:34:15 [TRACEWRAP] Parameter jobID = 3
-2025/02/24 16:34:15 [TRACEWRAP] Parameter result = 6
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 140.625ms, HeapAlloc Diff: 458224
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 171.875ms, HeapAlloc Diff: 453568
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 187.5ms, HeapAlloc Diff: 636696
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Additional OS Threads Used: 295
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Additional OS Threads Used: 471
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 23
-2025/02/24 16:34:15 [TRACEWRAP] Entering logResult ID: 24
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:15 [TRACEWRAP] Parameter workerID = 1
-2025/02/24 16:34:16 [TRACEWRAP] Entering logResult ID: 25
-2025/02/24 16:34:16 [TRACEWRAP] Parameter workerID = 7
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 368
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 446
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 532224, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 1298064, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 1
-2025/02/24 16:34:16 [TRACEWRAP] Parameter workerID = 2
-2025/02/24 16:34:16 [TRACEWRAP] Entering logResult ID: 26
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 2
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 2
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 7
-2025/02/24 16:34:16 [TRACEWRAP] Parameter workerID = 4
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 4
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 652128, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 767464, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 14
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 4
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 8
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 78.125ms, HeapAlloc Diff: 286400
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 222
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 385344, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 187.5ms, HeapAlloc Diff: 690424
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 385
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 6328
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 3692
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 2
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 171.875ms, HeapAlloc Diff: -450448
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: -310016, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 218.75ms, HeapAlloc Diff: 222984
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 26, Duration: 116.0285ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 10
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8349655040 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 25, Duration: 136.1215ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 11
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8350015488 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 4691
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 5235
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 3001
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 511
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 601
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 3
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 4
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 5
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: -2506312, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 24, Duration: 200.8172ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 12
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8352706560 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 23, Duration: 225.2554ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 13
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.140625s, HeapAlloc Diff: 458448
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8352694272 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 22, Duration: 276.4994ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 14
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.140625s, HeapAlloc Diff: 555064
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8351997952 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: -2323984, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 5399
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.15625s, HeapAlloc Diff: 574456
-2025/02/24 16:34:16 [TRACEWRAP] Entering processJob ID: 27
-2025/02/24 16:34:16 [TRACEWRAP] Entering processJob ID: 28
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 1957
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 9
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 6
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 10
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 1996
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 1989
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 6441
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 28, Duration: 18.5798ms, MemDiff: 26320 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 15
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8352796672 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 586728, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.15625s, HeapAlloc Diff: 707456
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 639560, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 7
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 618248, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 12587, Disk I/O Delta: 8569
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 27, Duration: 61.5857ms, MemDiff: 200920 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 16
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8349839360 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 2109
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 832568, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 8
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 20, Duration: 443.7656ms, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.234375s, HeapAlloc Diff: 755432
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 17
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8347295744 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 21404
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.28125s, HeapAlloc Diff: 932416
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 21502
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 2
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 2181
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 21665
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 12, Duration: 1.2285715s, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 18
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8347480064 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Goroutines Spawned: 1
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 11, Duration: 1.4122917s, MemDiff: 0 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 19
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8347688960 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Additional OS Threads Used: 2162
-2025/02/24 16:34:16 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 936496, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 3
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Heap Allocated Delta: 994144, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 9, Duration: 1.8465742s, MemDiff: 258080 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 20
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8347758592 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 23815
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 4
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 8, Duration: 1.9073813s, MemDiff: 308264 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 21
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8346304512 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 24183
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 5
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob returning [18]
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Network Usage Delta: 12641, Disk I/O Delta: 23802
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Calls: 6
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: 994152
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 7, Duration: 1.9848938s, MemDiff: 506824 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 22
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8346951680 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob returning [20]
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: 977080
-2025/02/24 16:34:16 [TRACEWRAP] Exiting worker, ID: 6, Duration: 2.0285873s, MemDiff: 509576 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 23
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8348852224 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Goroutines Spawned: -4
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Additional OS Threads Used: 595
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Goroutines Spawned: -5
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Additional OS Threads Used: 571
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Heap Allocated Delta: 979248, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Heap Allocated Delta: 998224, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Network Usage Delta: 12857, Disk I/O Delta: 7693
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Calls: 9
-2025/02/24 16:34:16 [TRACEWRAP] Exiting processJob, ID: 5, Duration: 2.1351629s, MemDiff: 667896 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 24
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8346374144 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Network Usage Delta: 12857, Disk I/O Delta: 8025
-2025/02/24 16:34:16 [TRACEWRAP] Function processJob Calls: 10
-2025/02/24 16:34:16 [TRACEWRAP] Exiting processJob, ID: 4, Duration: 2.3315194s, MemDiff: 759560 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 25
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8365023232 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Entering logResult ID: 29
-2025/02/24 16:34:16 [TRACEWRAP] Parameter workerID = 6
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 10
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 20
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 46.875ms, HeapAlloc Diff: 158008
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 70
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 158648, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Entering logResult ID: 30
-2025/02/24 16:34:16 [TRACEWRAP] Parameter workerID = 3
-2025/02/24 16:34:16 [TRACEWRAP] Parameter jobID = 9
-2025/02/24 16:34:16 [TRACEWRAP] Parameter result = 18
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 133280
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Goroutines Spawned: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Additional OS Threads Used: 99
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult GC Runs: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Heap Allocated Delta: 133920, Heap Freed Delta: 0
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 87, Disk I/O Delta: 1296
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 9
-2025/02/24 16:34:16 [TRACEWRAP] Exiting logResult, ID: 30, Duration: 93.9102ms, MemDiff: 141248 bytes
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: Total trace records now: 26
-2025/02/24 16:34:16 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8371539968 bytes
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 973
-2025/02/24 16:34:16 [TRACEWRAP] Function logResult Calls: 10
-2025/02/24 16:34:16 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.484375s, HeapAlloc Diff: 1731368
-2025/02/24 16:34:17 [TRACEWRAP] Exiting logResult, ID: 29, Duration: 120.4223ms, MemDiff: 209144 bytes
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: Total trace records now: 27
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8371519488 bytes
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.46875s, HeapAlloc Diff: 1711360
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Goroutines Spawned: -5
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Additional OS Threads Used: 2648
-2025/02/24 16:34:17 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Goroutines Spawned: -5
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Additional OS Threads Used: 2643
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Heap Allocated Delta: 1733792, Heap Freed Delta: 0
-2025/02/24 16:34:17 [TRACEWRAP] Function worker GC Runs: 1
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Heap Allocated Delta: 1712752, Heap Freed Delta: 0
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Network Usage Delta: 13323, Disk I/O Delta: 29200
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Calls: 7
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Network Usage Delta: 13323, Disk I/O Delta: 29891
-2025/02/24 16:34:17 [TRACEWRAP] Function worker Calls: 8
-2025/02/24 16:34:17 [TRACEWRAP] Exiting worker, ID: 3, Duration: 2.62081s, MemDiff: 1242048 bytes
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: Total trace records now: 28
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8364408832 bytes
-2025/02/24 16:34:17 [TRACEWRAP] Exiting worker, ID: 2, Duration: 2.6511749s, MemDiff: 1407368 bytes
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: Total trace records now: 29
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8364535808 bytes
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: Generating DOT with 29 trace records
-2025/02/24 16:34:17 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
-2025/02/24 16:34:17 [TRACEWRAP] Function main Resource Usage - CPU Time: 1.578125s, HeapAlloc Diff: 2164064
-2025/02/24 16:34:17 [TRACEWRAP] Function main Goroutines Spawned: 1
-2025/02/24 16:34:17 [TRACEWRAP] Function main Additional OS Threads Used: 2877
-2025/02/24 16:34:17 [TRACEWRAP] Function main GC Runs: 1
-2025/02/24 16:34:17 [TRACEWRAP] Function main Heap Allocated Delta: 2164688, Heap Freed Delta: 0
-2025/02/24 16:34:17 [TRACEWRAP] Function main Network Usage Delta: 13918, Disk I/O Delta: 36344
-2025/02/24 16:34:17 [TRACEWRAP] Function main Calls: 1
-2025/02/24 16:34:17 [TRACEWRAP] Exiting main, ID: 1, Duration: 2.960888s, MemDiff: 2164208 bytes
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: Total trace records now: 30
-2025/02/24 16:34:17 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8361492480 bytes
+2025/02/24 16:53:04 [TRACEWRAP] Entering main ID: 1
+2025/02/24 16:53:05 [TRACEWRAP] Entering generateJobs ID: 2
+2025/02/24 16:53:05 [TRACEWRAP] Parameter n = 10
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs returning [[1 2 3 4 5 6 7 8 9 10]]
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Resource Usage - CPU Time: 312.5ms, HeapAlloc Diff: 676792
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 3
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 3
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 4
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 5
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 6
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 6
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 2
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Additional OS Threads Used: 206
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 7
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 4
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 8
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 5
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 1
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 9
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Heap Allocated Delta: 739328, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 7
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Entering worker ID: 10
+2025/02/24 16:53:05 [TRACEWRAP] Parameter id = 8
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobs = 0xc0000fa000
+2025/02/24 16:53:05 [TRACEWRAP] Parameter results = 0xc0000fa0c0
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Network Usage Delta: 458, Disk I/O Delta: 2483
+2025/02/24 16:53:05 [TRACEWRAP] Function generateJobs Calls: 1
+2025/02/24 16:53:05 [TRACEWRAP] Exiting generateJobs, ID: 10, Duration: 88.6947ms, MemDiff: 74784 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 1
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8787898368 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 11
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 3
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 12
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 5
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 13
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 6
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 14
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 15
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 8
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 7
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 16
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 1
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 17
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 4
+2025/02/24 16:53:05 [TRACEWRAP] Entering processJob ID: 18
+2025/02/24 16:53:05 [TRACEWRAP] Parameter jobID = 2
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [6]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 671.875ms, HeapAlloc Diff: 706680
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 282
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 707352, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [10]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 687.5ms, HeapAlloc Diff: 707968
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 294
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 708624, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [12]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 687.5ms, HeapAlloc Diff: 692504
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 300
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 693144, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [16]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [14]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 750ms, HeapAlloc Diff: 778040
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 671.875ms, HeapAlloc Diff: 678232
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [2]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 397
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 734.375ms, HeapAlloc Diff: 696048
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 335
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 780352, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 353
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 680336, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [8]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob returning [4]
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 765.625ms, HeapAlloc Diff: 797600
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 750ms, HeapAlloc Diff: 765144
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 714544, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 388
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Goroutines Spawned: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Additional OS Threads Used: 425
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 914184, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Heap Allocated Delta: 980824, Heap Freed Delta: 0
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 4837
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 1
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 4896
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 2
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 4995
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 3
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 18, Duration: 332.3497ms, MemDiff: 513696 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 2
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8763289600 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 17, Duration: 380.098ms, MemDiff: 605192 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 3
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8763260928 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 16, Duration: 420.4989ms, MemDiff: 743760 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 4
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8763129856 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 5528
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 4
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 5528
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 5
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 5570
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 6
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 15, Duration: 481.3531ms, MemDiff: 883736 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 5
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8762675200 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 5670
+2025/02/24 16:53:05 [TRACEWRAP] Function processJob Calls: 7
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 14, Duration: 493.9107ms, MemDiff: 913088 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 6
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8762511360 bytes
+2025/02/24 16:53:05 [TRACEWRAP] Exiting processJob, ID: 13, Duration: 508.9153ms, MemDiff: 1032824 bytes
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: Total trace records now: 7
+2025/02/24 16:53:05 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8762527744 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Exiting processJob, ID: 12, Duration: 565.9134ms, MemDiff: 1104960 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 8
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8763981824 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Network Usage Delta: 467, Disk I/O Delta: 6433
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Calls: 8
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 19
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 5
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 20
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 21
+2025/02/24 16:53:06 [TRACEWRAP] Exiting processJob, ID: 21, Duration: 4.1183ms, MemDiff: 464 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 9
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8784728064 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 5
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 2
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 1
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 10
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 3
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 22
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 6
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 23
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: 824296
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 6
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 7
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 12
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 8
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 250ms, HeapAlloc Diff: 663600
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 7
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 8
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 435
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 14
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 16
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 381
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 218.75ms, HeapAlloc Diff: 624552
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 828232, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 203.125ms, HeapAlloc Diff: 534264
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 156.25ms, HeapAlloc Diff: 444016
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 666632, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 391
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 24
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 733376, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 374
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 331
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 3
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 25
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 592736, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 6
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 1
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 683144, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 2
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 4
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 2
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: 720240
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 26
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 4
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 4
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 328.125ms, HeapAlloc Diff: -394960
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 8
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 2424, Disk I/O Delta: 4442
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 2424, Disk I/O Delta: 4431
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 2424, Disk I/O Delta: 4231
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 500
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 296.875ms, HeapAlloc Diff: -2590656
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 2
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 450
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 3
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 26, Duration: 89.0245ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 10
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8785723392 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 25, Duration: 169.787ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 11
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8785793024 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 24, Duration: 184.7314ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 12
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8786210816 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: -2495672, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: -2333416, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 415
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 145, Disk I/O Delta: 5730
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.921875s, HeapAlloc Diff: 364152
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 4
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: -2489800, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 145, Disk I/O Delta: 6069
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 23, Duration: 293.3911ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 13
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789291008 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 1884
+2025/02/24 16:53:06 [TRACEWRAP] Entering processJob ID: 27
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 9
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.953125s, HeapAlloc Diff: 564688
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 5
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Entering processJob ID: 28
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 28, Duration: 1.1657ms, MemDiff: 7776 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 14
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8793567232 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 726720, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 10
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 1892
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 1.984375s, HeapAlloc Diff: 660776
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 325, Disk I/O Delta: 5079
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 6
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 618480, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 27, Duration: 21.0698ms, MemDiff: 72480 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 15
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8794124288 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 1953
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 2.03125s, HeapAlloc Diff: 682536
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 325, Disk I/O Delta: 6356
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 7
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 720600, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 1998
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 700456, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 22, Duration: 408.0178ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 16
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8790929408 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 2.109375s, HeapAlloc Diff: 763648
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 180, Disk I/O Delta: 6215
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 8
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 2054
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 20, Duration: 468.4392ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 17
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8790654976 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 765560, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 2.15625s, HeapAlloc Diff: 897752
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 2102
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 964152, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3421, Disk I/O Delta: 20325
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3879, Disk I/O Delta: 22565
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 2
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 19, Duration: 567.1832ms, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 18
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789139456 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 11, Duration: 1.219862s, MemDiff: 0 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 19
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8788897792 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3879, Disk I/O Delta: 21736
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 3
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3879, Disk I/O Delta: 22938
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 4
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 9, Duration: 1.6005686s, MemDiff: 494088 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 20
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789127168 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 8, Duration: 1.610012s, MemDiff: 522752 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 21
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789229568 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3879, Disk I/O Delta: 23708
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 5
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob returning [18]
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob returning [20]
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Network Usage Delta: 3879, Disk I/O Delta: 23839
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 578.125ms, HeapAlloc Diff: 1053848
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Resource Usage - CPU Time: 609.375ms, HeapAlloc Diff: 1012176
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 7, Duration: 1.6203134s, MemDiff: 559960 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 22
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789553152 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Calls: 6
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Goroutines Spawned: -4
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Additional OS Threads Used: 612
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Goroutines Spawned: -4
+2025/02/24 16:53:06 [TRACEWRAP] Exiting worker, ID: 6, Duration: 1.6291864s, MemDiff: 579200 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 23
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8789540864 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Additional OS Threads Used: 568
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Heap Allocated Delta: 1015776, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Heap Allocated Delta: 1056736, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 7593
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Calls: 9
+2025/02/24 16:53:06 [TRACEWRAP] Exiting processJob, ID: 5, Duration: 1.7337854s, MemDiff: 772128 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 24
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8796807168 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Network Usage Delta: 0, Disk I/O Delta: 8036
+2025/02/24 16:53:06 [TRACEWRAP] Function processJob Calls: 10
+2025/02/24 16:53:06 [TRACEWRAP] Exiting processJob, ID: 4, Duration: 1.7376959s, MemDiff: 808312 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 25
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8796807168 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 29
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 5
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 9
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 18
+2025/02/24 16:53:06 [TRACEWRAP] Entering logResult ID: 30
+2025/02/24 16:53:06 [TRACEWRAP] Parameter workerID = 1
+2025/02/24 16:53:06 [TRACEWRAP] Parameter jobID = 10
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 78.125ms, HeapAlloc Diff: 163856
+2025/02/24 16:53:06 [TRACEWRAP] Parameter result = 20
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 89
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Resource Usage - CPU Time: 125ms, HeapAlloc Diff: 183384
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 165728, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Goroutines Spawned: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Additional OS Threads Used: 121
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult GC Runs: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Heap Allocated Delta: 200984, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 1182
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 9
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 30, Duration: 94.4913ms, MemDiff: 159008 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 26
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8800100352 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 3.015625s, HeapAlloc Diff: 1870736
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: -5
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 2652
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 1881152, Heap Freed Delta: 0
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Network Usage Delta: 0, Disk I/O Delta: 2042
+2025/02/24 16:53:06 [TRACEWRAP] Function logResult Calls: 10
+2025/02/24 16:53:06 [TRACEWRAP] Exiting logResult, ID: 29, Duration: 102.5292ms, MemDiff: 215992 bytes
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: Total trace records now: 27
+2025/02/24 16:53:06 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8801669120 bytes
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Resource Usage - CPU Time: 3.046875s, HeapAlloc Diff: 1883816
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Goroutines Spawned: -5
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Additional OS Threads Used: 2676
+2025/02/24 16:53:06 [TRACEWRAP] Function worker GC Runs: 1
+2025/02/24 16:53:06 [TRACEWRAP] Function worker Heap Allocated Delta: 1884456, Heap Freed Delta: 0
+2025/02/24 16:53:07 [TRACEWRAP] Function worker Network Usage Delta: 3963, Disk I/O Delta: 29141
+2025/02/24 16:53:07 [TRACEWRAP] Function worker Calls: 7
+2025/02/24 16:53:07 [TRACEWRAP] Exiting worker, ID: 3, Duration: 2.0125881s, MemDiff: 1326224 bytes
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: Total trace records now: 28
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8812044288 bytes
+2025/02/24 16:53:07 [TRACEWRAP] Function worker Network Usage Delta: 3963, Disk I/O Delta: 29777
+2025/02/24 16:53:07 [TRACEWRAP] Function worker Calls: 8
+2025/02/24 16:53:07 [TRACEWRAP] Exiting worker, ID: 2, Duration: 2.0467209s, MemDiff: 1446432 bytes
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: Total trace records now: 29
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8811851776 bytes
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: Generating DOT with 29 trace records
+2025/02/24 16:53:07 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
+2025/02/24 16:53:07 [TRACEWRAP] Function main Resource Usage - CPU Time: 3.25s, HeapAlloc Diff: 2248744
+2025/02/24 16:53:07 [TRACEWRAP] Function main Goroutines Spawned: 1
+2025/02/24 16:53:07 [TRACEWRAP] Function main Additional OS Threads Used: 2877
+2025/02/24 16:53:07 [TRACEWRAP] Function main GC Runs: 1
+2025/02/24 16:53:07 [TRACEWRAP] Function main Heap Allocated Delta: 2249336, Heap Freed Delta: 0
+2025/02/24 16:53:07 [TRACEWRAP] Function main Network Usage Delta: 3963, Disk I/O Delta: 36453
+2025/02/24 16:53:07 [TRACEWRAP] Function main Calls: 1
+2025/02/24 16:53:07 [TRACEWRAP] Exiting main, ID: 1, Duration: 2.3571635s, MemDiff: 2248856 bytes
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: Total trace records now: 30
+2025/02/24 16:53:07 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8809803776 bytes

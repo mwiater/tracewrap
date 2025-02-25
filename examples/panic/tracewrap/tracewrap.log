@@ -1,50 +1,50 @@
-2025/02/24 11:03:36 [TRACEWRAP] Entering main ID: 1
-2025/02/24 11:03:36 [TRACEWRAP] Entering demoPanicRecovery ID: 2
-2025/02/24 11:03:36 [TRACEWRAP] Entering triggerPanic ID: 3
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Resource Usage - CPU Time: 0s, HeapAlloc Diff: 38752
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Goroutines Spawned: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Additional OS Threads Used: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic GC Runs: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Heap Allocated Delta: 38912, Heap Freed Delta: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Network Usage Delta: 432, Disk I/O Delta: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function triggerPanic Calls: 1
-2025/02/24 11:03:36 [TRACEWRAP] Exiting triggerPanic, ID: 3, Duration: 983.598µs, MemDiff: 39200 bytes
-2025/02/24 11:03:36 [TRACEWRAP] DEBUG: Total trace records now: 1
-2025/02/24 11:03:36 [TRACEWRAP] DEBUG: System CPU Load: 3.670000, System Mem Usage: 953520128 bytes
-2025/02/24 11:03:36 [TRACEWRAP] Panic in triggerPanic: Intentional panic for demonstration purposes
+2025/02/24 16:53:59 [TRACEWRAP] Entering main ID: 1
+2025/02/24 16:53:59 [TRACEWRAP] Entering demoPanicRecovery ID: 2
+2025/02/24 16:54:00 [TRACEWRAP] Entering triggerPanic ID: 3
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 89984
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Goroutines Spawned: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Additional OS Threads Used: 41
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic GC Runs: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Heap Allocated Delta: 90880, Heap Freed Delta: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Network Usage Delta: 0, Disk I/O Delta: 501
+2025/02/24 16:54:00 [TRACEWRAP] Function triggerPanic Calls: 1
+2025/02/24 16:54:00 [TRACEWRAP] Exiting triggerPanic, ID: 3, Duration: 106.6271ms, MemDiff: 92080 bytes
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: Total trace records now: 1
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8433430528 bytes
+2025/02/24 16:54:00 [TRACEWRAP] Panic in triggerPanic: Intentional panic for demonstration purposes
 StackTrace:
 goroutine 1 [running]:
 runtime/debug.Stack()
-	/usr/local/go/src/runtime/debug/stack.go:26 +0x5e
+	C:/Users/Matt/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.3.windows-amd64/src/runtime/debug/stack.go:26 +0x5e
 main.triggerPanic.func1()
-	/tmp/tracewrap_workspace_3081341760/main.go:154 +0x32
-panic({0x4d2280?, 0x51f240?})
-	/usr/local/go/src/runtime/panic.go:785 +0x132
+	C:/Users/Matt/AppData/Local/Temp/tracewrap_workspace_3925608310/main.go:153 +0x32
+panic({0x180160?, 0x1d5828?})
+	C:/Users/Matt/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.3.windows-amd64/src/runtime/panic.go:785 +0x132
 main.triggerPanic()
-	/tmp/tracewrap_workspace_3081341760/main.go:196 +0x245
+	C:/Users/Matt/AppData/Local/Temp/tracewrap_workspace_3925608310/main.go:195 +0x245
 main.demoPanicRecovery()
-	/tmp/tracewrap_workspace_3081341760/main.go:145 +0x249
+	C:/Users/Matt/AppData/Local/Temp/tracewrap_workspace_3925608310/main.go:144 +0x249
 main.main()
-	/tmp/tracewrap_workspace_3081341760/main.go:85 +0x235
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Resource Usage - CPU Time: 50ms, HeapAlloc Diff: 130760
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Goroutines Spawned: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Additional OS Threads Used: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery GC Runs: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Heap Allocated Delta: 130840, Heap Freed Delta: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Network Usage Delta: 2902, Disk I/O Delta: 0
-2025/02/24 11:03:36 [TRACEWRAP] Function demoPanicRecovery Calls: 1
-2025/02/24 11:03:36 [TRACEWRAP] Exiting demoPanicRecovery, ID: 2, Duration: 20.701378ms, MemDiff: 130920 bytes
-2025/02/24 11:03:36 [TRACEWRAP] DEBUG: Total trace records now: 2
-2025/02/24 11:03:36 [TRACEWRAP] DEBUG: System CPU Load: 3.670000, System Mem Usage: 953520128 bytes
-2025/02/24 11:03:36 [TRACEWRAP] DEBUG: Generating DOT with 2 trace records
-2025/02/24 11:03:36 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
-2025/02/24 11:03:37 [TRACEWRAP] Function main Resource Usage - CPU Time: 70ms, HeapAlloc Diff: 229592
-2025/02/24 11:03:37 [TRACEWRAP] Function main Goroutines Spawned: 0
-2025/02/24 11:03:37 [TRACEWRAP] Function main Additional OS Threads Used: 0
-2025/02/24 11:03:37 [TRACEWRAP] Function main GC Runs: 0
-2025/02/24 11:03:37 [TRACEWRAP] Function main Heap Allocated Delta: 229672, Heap Freed Delta: 0
-2025/02/24 11:03:37 [TRACEWRAP] Function main Network Usage Delta: 5218, Disk I/O Delta: 8192
-2025/02/24 11:03:37 [TRACEWRAP] Function main Calls: 1
-2025/02/24 11:03:37 [TRACEWRAP] Exiting main, ID: 1, Duration: 187.190023ms, MemDiff: 230376 bytes
-2025/02/24 11:03:37 [TRACEWRAP] DEBUG: Total trace records now: 3
-2025/02/24 11:03:37 [TRACEWRAP] DEBUG: System CPU Load: 3.670000, System Mem Usage: 953520128 bytes
+	C:/Users/Matt/AppData/Local/Temp/tracewrap_workspace_3925608310/main.go:84 +0x235
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Resource Usage - CPU Time: 171.875ms, HeapAlloc Diff: 284664
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Goroutines Spawned: 1
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Additional OS Threads Used: 142
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery GC Runs: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Heap Allocated Delta: 285352, Heap Freed Delta: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Network Usage Delta: 0, Disk I/O Delta: 2295
+2025/02/24 16:54:00 [TRACEWRAP] Function demoPanicRecovery Calls: 1
+2025/02/24 16:54:00 [TRACEWRAP] Exiting demoPanicRecovery, ID: 2, Duration: 343.2135ms, MemDiff: 286152 bytes
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: Total trace records now: 2
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8440684544 bytes
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: Generating DOT with 2 trace records
+2025/02/24 16:54:00 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
+2025/02/24 16:54:00 [TRACEWRAP] Function main Resource Usage - CPU Time: 390.625ms, HeapAlloc Diff: 479208
+2025/02/24 16:54:00 [TRACEWRAP] Function main Goroutines Spawned: 1
+2025/02/24 16:54:00 [TRACEWRAP] Function main Additional OS Threads Used: 253
+2025/02/24 16:54:00 [TRACEWRAP] Function main GC Runs: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function main Heap Allocated Delta: 479816, Heap Freed Delta: 0
+2025/02/24 16:54:00 [TRACEWRAP] Function main Network Usage Delta: 87, Disk I/O Delta: 3697
+2025/02/24 16:54:00 [TRACEWRAP] Function main Calls: 1
+2025/02/24 16:54:00 [TRACEWRAP] Exiting main, ID: 1, Duration: 595.1671ms, MemDiff: 479320 bytes
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: Total trace records now: 3
+2025/02/24 16:54:00 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8445513728 bytes
