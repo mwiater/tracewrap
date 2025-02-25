@@ -1,0 +1,157 @@
+2025/02/23 16:16:19 [TRACEWRAP] Entering main ID: 1
+2025/02/23 16:16:34 [TRACEWRAP] Entering homeHandler ID: 2
+2025/02/23 16:16:34 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc000192140 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc0000a21c0 cw:{res:0xc0001882a0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc00000e230 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:34 [TRACEWRAP] Parameter r = &{Method:GET URL:/ Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Cache-Control:[max-age=0] Connection:[keep-alive] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/ TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc0001c2280 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 62.5ms, HeapAlloc Diff: 122816
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 48
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 123456, Heap Freed Delta: 0
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 2012
+2025/02/23 16:16:34 [TRACEWRAP] Function homeHandler Calls: 1
+2025/02/23 16:16:34 [TRACEWRAP] Exiting homeHandler, ID: 2, Duration: 167.7741ms, MemDiff: 115568 bytes
+2025/02/23 16:16:34 [TRACEWRAP] DEBUG: Total trace records now: 1
+2025/02/23 16:16:34 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8074661888 bytes
+2025/02/23 16:16:35 [TRACEWRAP] Entering homeHandler ID: 3
+2025/02/23 16:16:35 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c280 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0001887e0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc0000881c0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:35 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc000200050 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 46.875ms, HeapAlloc Diff: 114112
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 47
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 114768, Heap Freed Delta: 0
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1948
+2025/02/23 16:16:35 [TRACEWRAP] Function homeHandler Calls: 2
+2025/02/23 16:16:35 [TRACEWRAP] Exiting homeHandler, ID: 3, Duration: 177.7283ms, MemDiff: 115520 bytes
+2025/02/23 16:16:35 [TRACEWRAP] DEBUG: Total trace records now: 2
+2025/02/23 16:16:35 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8082833408 bytes
+2025/02/23 16:16:38 [TRACEWRAP] Entering homeHandler ID: 4
+2025/02/23 16:16:38 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c3c0 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc000188d20 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc0001400e0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:38 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc0001c2370 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 187.5ms, HeapAlloc Diff: 109296
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 109936, Heap Freed Delta: 0
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1947
+2025/02/23 16:16:38 [TRACEWRAP] Function homeHandler Calls: 3
+2025/02/23 16:16:38 [TRACEWRAP] Exiting homeHandler, ID: 4, Duration: 157.5079ms, MemDiff: 110688 bytes
+2025/02/23 16:16:38 [TRACEWRAP] DEBUG: Total trace records now: 3
+2025/02/23 16:16:38 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8110448640 bytes
+2025/02/23 16:16:43 [TRACEWRAP] Entering helloHandler ID: 5
+2025/02/23 16:16:43 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c500 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc0000a21c0 cw:{res:0xc000189260 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc00000e310 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:43 [TRACEWRAP] Parameter r = &{Method:GET URL:/hello Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/hello TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/hello ctx:0xc0001c23c0 pat:0xc00011c120 matches:[] otherValues:map[]}
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Resource Usage - CPU Time: 46.875ms, HeapAlloc Diff: 110432
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Goroutines Spawned: 0
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Additional OS Threads Used: 46
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler GC Runs: 0
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Heap Allocated Delta: 111088, Heap Freed Delta: 0
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Network Usage Delta: 0, Disk I/O Delta: 2009
+2025/02/23 16:16:43 [TRACEWRAP] Function helloHandler Calls: 1
+2025/02/23 16:16:43 [TRACEWRAP] Exiting helloHandler, ID: 5, Duration: 631.6891ms, MemDiff: 111856 bytes
+2025/02/23 16:16:43 [TRACEWRAP] DEBUG: Total trace records now: 4
+2025/02/23 16:16:43 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8053260288 bytes
+2025/02/23 16:16:44 [TRACEWRAP] Entering homeHandler ID: 6
+2025/02/23 16:16:44 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c640 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0002ce0e0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc0001401c0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:44 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/hello] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc0002000f0 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 109296
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 47
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 109936, Heap Freed Delta: 0
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1952
+2025/02/23 16:16:44 [TRACEWRAP] Function homeHandler Calls: 4
+2025/02/23 16:16:44 [TRACEWRAP] Exiting homeHandler, ID: 6, Duration: 167.8919ms, MemDiff: 110688 bytes
+2025/02/23 16:16:44 [TRACEWRAP] DEBUG: Total trace records now: 5
+2025/02/23 16:16:44 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8052793344 bytes
+2025/02/23 16:16:46 [TRACEWRAP] Entering homeHandler ID: 7
+2025/02/23 16:16:46 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c780 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0002ce460 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc00000e3f0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:46 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/hello] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc000200140 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 112104
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 112744, Heap Freed Delta: 0
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1952
+2025/02/23 16:16:46 [TRACEWRAP] Function homeHandler Calls: 5
+2025/02/23 16:16:46 [TRACEWRAP] Exiting homeHandler, ID: 7, Duration: 134.3709ms, MemDiff: 113496 bytes
+2025/02/23 16:16:46 [TRACEWRAP] DEBUG: Total trace records now: 6
+2025/02/23 16:16:46 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8098811904 bytes
+2025/02/23 16:16:50 [TRACEWRAP] Entering timeHandler ID: 8
+2025/02/23 16:16:50 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009c8c0 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0002ce7e0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc000088310 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:50 [TRACEWRAP] Parameter r = &{Method:GET URL:/time Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/time TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/time ctx:0xc0001c2500 pat:0xc00011c180 matches:[] otherValues:map[]}
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Resource Usage - CPU Time: 46.875ms, HeapAlloc Diff: 110440
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Goroutines Spawned: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler GC Runs: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Heap Allocated Delta: 111224, Heap Freed Delta: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Network Usage Delta: 13024, Disk I/O Delta: 2000
+2025/02/23 16:16:50 [TRACEWRAP] Function timeHandler Calls: 1
+2025/02/23 16:16:50 [TRACEWRAP] Exiting timeHandler, ID: 8, Duration: 376.9792ms, MemDiff: 111976 bytes
+2025/02/23 16:16:50 [TRACEWRAP] DEBUG: Total trace records now: 7
+2025/02/23 16:16:50 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8091115520 bytes
+2025/02/23 16:16:50 [TRACEWRAP] Entering homeHandler ID: 9
+2025/02/23 16:16:50 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009ca00 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0002cea80 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc00000e4d0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:50 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/time] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc0001c2550 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 46.875ms, HeapAlloc Diff: 111152
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 111808, Heap Freed Delta: 0
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1952
+2025/02/23 16:16:50 [TRACEWRAP] Function homeHandler Calls: 6
+2025/02/23 16:16:50 [TRACEWRAP] Exiting homeHandler, ID: 9, Duration: 125.8089ms, MemDiff: 112560 bytes
+2025/02/23 16:16:50 [TRACEWRAP] DEBUG: Total trace records now: 8
+2025/02/23 16:16:50 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8090112000 bytes
+2025/02/23 16:16:53 [TRACEWRAP] Entering helloHandler ID: 10
+2025/02/23 16:16:53 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009cb40 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc0000a21c0 cw:{res:0xc0002cee00 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc0000883f0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:53 [TRACEWRAP] Parameter r = &{Method:GET URL:/hello Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Cache-Control:[max-age=0] Connection:[keep-alive] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/hello TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/hello ctx:0xc0002001e0 pat:0xc00011c120 matches:[] otherValues:map[]}
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Resource Usage - CPU Time: 62.5ms, HeapAlloc Diff: 115768
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Goroutines Spawned: 0
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Additional OS Threads Used: 46
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler GC Runs: 0
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Heap Allocated Delta: 116408, Heap Freed Delta: 0
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Network Usage Delta: 217, Disk I/O Delta: 2034
+2025/02/23 16:16:53 [TRACEWRAP] Function helloHandler Calls: 2
+2025/02/23 16:16:53 [TRACEWRAP] Exiting helloHandler, ID: 10, Duration: 636.6467ms, MemDiff: 117176 bytes
+2025/02/23 16:16:53 [TRACEWRAP] DEBUG: Total trace records now: 9
+2025/02/23 16:16:53 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8108081152 bytes
+2025/02/23 16:16:54 [TRACEWRAP] Entering homeHandler ID: 11
+2025/02/23 16:16:54 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009cc80 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc0000a21c0 cw:{res:0xc0002cf0a0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc00000e5b0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:54 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/hello] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc000200230 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 0s, HeapAlloc Diff: 109296
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 109920, Heap Freed Delta: 0
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1948
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Calls: 7
+2025/02/23 16:16:54 [TRACEWRAP] Exiting homeHandler, ID: 11, Duration: 121.1012ms, MemDiff: 110672 bytes
+2025/02/23 16:16:54 [TRACEWRAP] DEBUG: Total trace records now: 10
+2025/02/23 16:16:54 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8108060672 bytes
+2025/02/23 16:16:54 [TRACEWRAP] Entering homeHandler ID: 12
+2025/02/23 16:16:54 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009cdc0 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc000038340 cw:{res:0xc0002cf420 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc0000884d0 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:54 [TRACEWRAP] Parameter r = &{Method:GET URL:/ Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Cache-Control:[max-age=0] Connection:[keep-alive] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/ TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc000200280 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 109664
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:54 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 110304, Heap Freed Delta: 0
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 2014
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Calls: 8
+2025/02/23 16:16:55 [TRACEWRAP] Exiting homeHandler, ID: 12, Duration: 136.5294ms, MemDiff: 111056 bytes
+2025/02/23 16:16:55 [TRACEWRAP] DEBUG: Total trace records now: 11
+2025/02/23 16:16:55 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8093859840 bytes
+2025/02/23 16:16:55 [TRACEWRAP] Entering homeHandler ID: 13
+2025/02/23 16:16:55 [TRACEWRAP] Parameter w = &{conn:0xc000196090 req:0xc00009cf00 reqBody:{} cancelCtx:0xcd42a0 wroteHeader:false wants10KeepAlive:false wantsClose:false writeContinueMu:{state:0 sema:0} canWriteContinue:{_:{} v:0} w:0xc0000a21c0 cw:{res:0xc0002cf7a0 header:map[] wroteHeader:false chunking:false} handlerHeader:map[] calledHeader:false written:0 contentLength:-1 status:0 closeAfterReply:false fullDuplex:false requestBodyLimitHit:false trailers:[] handlerDone:{_:{} v:0} dateBuf:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] clenBuf:[0 0 0 0 0 0 0 0 0 0] statusBuf:[0 0 0] closeNotifyCh:0xc000140380 didCloseNotify:{_:{} v:0}}
+2025/02/23 16:16:55 [TRACEWRAP] Parameter r = &{Method:GET URL:/favicon.ico Proto:HTTP/1.1 ProtoMajor:1 ProtoMinor:1 Header:map[Accept:[image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8] Accept-Encoding:[gzip, deflate] Accept-Language:[en-US,en;q=0.9,af;q=0.8] Connection:[keep-alive] Referer:[http://192.168.184.244:8080/] User-Agent:[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36]] Body:{} GetBody:<nil> ContentLength:0 TransferEncoding:[] Close:false Host:192.168.184.244:8080 Form:map[] PostForm:map[] MultipartForm:<nil> Trailer:map[] RemoteAddr:192.168.184.244:64402 RequestURI:/favicon.ico TLS:<nil> Cancel:<nil> Response:<nil> Pattern:/ ctx:0xc0001c2690 pat:0xc00011c0c0 matches:[] otherValues:map[]}
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Resource Usage - CPU Time: 31.25ms, HeapAlloc Diff: 109296
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Goroutines Spawned: 0
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Additional OS Threads Used: 46
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler GC Runs: 0
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Heap Allocated Delta: 109936, Heap Freed Delta: 0
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Network Usage Delta: 0, Disk I/O Delta: 1948
+2025/02/23 16:16:55 [TRACEWRAP] Function homeHandler Calls: 9
+2025/02/23 16:16:55 [TRACEWRAP] Exiting homeHandler, ID: 13, Duration: 121.7399ms, MemDiff: 110688 bytes
+2025/02/23 16:16:55 [TRACEWRAP] DEBUG: Total trace records now: 12
+2025/02/23 16:16:55 [TRACEWRAP] DEBUG: System CPU Load: 0.000000, System Mem Usage: 8099041280 bytes

@@ -1,0 +1,7 @@
+digraph CallGraph {
+  node [shape=box, style=filled, color="lightblue"];
+  3 [label="triggerPanic\nID: 3\nDuration: 983.598µs\nMemDiff: 39200 bytes\nSysLoad: 3.67, SysMem: 953520128 bytes"];
+  2 [label="demoPanicRecovery\nID: 2\nDuration: 20.701378ms\nMemDiff: 130920 bytes\nSysLoad: 3.67, SysMem: 953520128 bytes"];
+  2 -> 3;
+  1 -> 2;
+}

@@ -1,0 +1,10 @@
+# tracewrap.yaml
+
+trace:
+  enabled: true
+  level: debug
+  include:
+    - "./**/*.go"
+  exclude:
+    - []
+  output: trace.log

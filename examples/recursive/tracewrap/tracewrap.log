@@ -1,0 +1,2314 @@
+2025/02/24 11:04:15 [TRACEWRAP] Entering main ID: 1
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 2
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 10
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 3
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 9
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 4
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 8
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 5
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 7
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 6
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 6
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 7
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 8
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 9
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 10
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 11
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39240
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39400, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 262, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 1
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 11, Duration: 1.010103ms, MemDiff: 39688 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 1
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 12
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 1006, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 2
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 12, Duration: 415.932µs, MemDiff: 39256 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 2
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 217904
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217968, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 2838, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 3
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 10, Duration: 2.680475ms, MemDiff: 218048 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 3
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 13
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 1140, Disk I/O Delta: 4096
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 4
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 13, Duration: 385.178µs, MemDiff: 39256 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 4
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 396400
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396464, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 5756, Disk I/O Delta: 4096
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 5
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 9, Duration: 4.100158ms, MemDiff: 396544 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 5
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 14
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 15
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 60, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 6
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 15, Duration: 230.537µs, MemDiff: 39240 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 6
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 952913920 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 16
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 1000, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 7
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 16, Duration: 256.604µs, MemDiff: 39256 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 7
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953430016 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 217432
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217496, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 3286, Disk I/O Delta: 4096
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 8
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 14, Duration: 1.317454ms, MemDiff: 217576 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 8
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953430016 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 753120
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 753184, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 11758, Disk I/O Delta: 8192
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 9
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 8, Duration: 6.719595ms, MemDiff: 753952 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 9
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953430016 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 17
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 18
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 19
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 1144, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 10
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 19, Duration: 37.398333ms, MemDiff: 39256 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 10
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953421824 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 20
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 952, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 11
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 20, Duration: 124.665692ms, MemDiff: 39256 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 11
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953421824 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 280ms, HeapAlloc Diff: 217624
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217704, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 3906, Disk I/O Delta: 4096
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 12
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 18, Duration: 290.350846ms, MemDiff: 217784 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 12
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953835520 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Entering fibonacci ID: 21
+2025/02/24 11:04:15 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 1276, Disk I/O Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 13
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 21, Duration: 6.953111ms, MemDiff: 39272 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 13
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953835520 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 450ms, HeapAlloc Diff: 395992
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396072, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 6604, Disk I/O Delta: 4096
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 14
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 17, Duration: 359.987688ms, MemDiff: 396152 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 14
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953835520 bytes
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 550ms, HeapAlloc Diff: 1289168
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 1289248, Heap Freed Delta: 0
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Network Usage Delta: 22398, Disk I/O Delta: 12288
+2025/02/24 11:04:15 [TRACEWRAP] Function fibonacci Calls: 15
+2025/02/24 11:04:15 [TRACEWRAP] Exiting fibonacci, ID: 7, Duration: 502.943609ms, MemDiff: 1289328 bytes
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: Total trace records now: 15
+2025/02/24 11:04:15 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953835520 bytes
+2025/02/24 11:04:16 [TRACEWRAP] Entering fibonacci ID: 22
+2025/02/24 11:04:16 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:16 [TRACEWRAP] Entering fibonacci ID: 23
+2025/02/24 11:04:16 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:16 [TRACEWRAP] Entering fibonacci ID: 24
+2025/02/24 11:04:16 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:16 [TRACEWRAP] Entering fibonacci ID: 25
+2025/02/24 11:04:16 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 220ms, HeapAlloc Diff: 39288
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39368, Heap Freed Delta: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Network Usage Delta: 1196, Disk I/O Delta: 4096
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Calls: 16
+2025/02/24 11:04:16 [TRACEWRAP] Exiting fibonacci, ID: 25, Duration: 289.21085ms, MemDiff: 39448 bytes
+2025/02/24 11:04:16 [TRACEWRAP] DEBUG: Total trace records now: 16
+2025/02/24 11:04:16 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 953831424 bytes
+2025/02/24 11:04:16 [TRACEWRAP] Entering fibonacci ID: 26
+2025/02/24 11:04:16 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 160.000001ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Network Usage Delta: 1342, Disk I/O Delta: 0
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci Calls: 17
+2025/02/24 11:04:16 [TRACEWRAP] Exiting fibonacci, ID: 26, Duration: 155.904602ms, MemDiff: 39272 bytes
+2025/02/24 11:04:16 [TRACEWRAP] DEBUG: Total trace records now: 17
+2025/02/24 11:04:16 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954089472 bytes
+2025/02/24 11:04:16 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.18s, HeapAlloc Diff: 217928
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218008, Heap Freed Delta: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Network Usage Delta: 4738, Disk I/O Delta: 4096
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Calls: 18
+2025/02/24 11:04:17 [TRACEWRAP] Exiting fibonacci, ID: 24, Duration: 856.038916ms, MemDiff: 218088 bytes
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: Total trace records now: 18
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954347520 bytes
+2025/02/24 11:04:17 [TRACEWRAP] Entering fibonacci ID: 27
+2025/02/24 11:04:17 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 150ms, HeapAlloc Diff: 39160
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39240, Heap Freed Delta: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Network Usage Delta: 1235, Disk I/O Delta: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Calls: 19
+2025/02/24 11:04:17 [TRACEWRAP] Exiting fibonacci, ID: 27, Duration: 195.680021ms, MemDiff: 39320 bytes
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: Total trace records now: 19
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954347520 bytes
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.89s, HeapAlloc Diff: 396344
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396424, Heap Freed Delta: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Network Usage Delta: 8857, Disk I/O Delta: 8192
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Calls: 20
+2025/02/24 11:04:17 [TRACEWRAP] Exiting fibonacci, ID: 23, Duration: 1.316909869s, MemDiff: 396504 bytes
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: Total trace records now: 20
+2025/02/24 11:04:17 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954347520 bytes
+2025/02/24 11:04:17 [TRACEWRAP] Entering fibonacci ID: 28
+2025/02/24 11:04:17 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:17 [TRACEWRAP] Entering fibonacci ID: 29
+2025/02/24 11:04:17 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 140ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:17 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Network Usage Delta: 1098, Disk I/O Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Calls: 21
+2025/02/24 11:04:18 [TRACEWRAP] Exiting fibonacci, ID: 29, Duration: 268.638612ms, MemDiff: 39272 bytes
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: Total trace records now: 21
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954343424 bytes
+2025/02/24 11:04:18 [TRACEWRAP] Entering fibonacci ID: 30
+2025/02/24 11:04:18 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 200ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Network Usage Delta: 1956, Disk I/O Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Calls: 22
+2025/02/24 11:04:18 [TRACEWRAP] Exiting fibonacci, ID: 30, Duration: 370.182701ms, MemDiff: 39272 bytes
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: Total trace records now: 22
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954343424 bytes
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.37s, HeapAlloc Diff: 217480
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217560, Heap Freed Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Network Usage Delta: 5778, Disk I/O Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Calls: 23
+2025/02/24 11:04:18 [TRACEWRAP] Exiting fibonacci, ID: 28, Duration: 1.028389631s, MemDiff: 217640 bytes
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: Total trace records now: 23
+2025/02/24 11:04:18 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954343424 bytes
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 4.02s, HeapAlloc Diff: 753080
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 753160, Heap Freed Delta: 0
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Network Usage Delta: 20971, Disk I/O Delta: 12288
+2025/02/24 11:04:18 [TRACEWRAP] Function fibonacci Calls: 24
+2025/02/24 11:04:18 [TRACEWRAP] Exiting fibonacci, ID: 22, Duration: 3.009562037s, MemDiff: 753240 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 24
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954343424 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [8]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 4.98s, HeapAlloc Diff: 2181504
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2181584, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 44693, Disk I/O Delta: 24576
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 25
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 6, Duration: 3.791620426s, MemDiff: 2181664 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 25
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954343424 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 31
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 32
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 33
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 34
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 35
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 26
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 35, Duration: 27.55199ms, MemDiff: 39240 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 26
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 954855424 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 36
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 568, Disk I/O Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 27
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 36, Duration: 9.490867ms, MemDiff: 39272 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 27
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955371520 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20ms, HeapAlloc Diff: 217448
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217528, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 4464, Disk I/O Delta: 4096
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 28
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 34, Duration: 90.923202ms, MemDiff: 217608 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 28
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955371520 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 37
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 80ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 840, Disk I/O Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 29
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 37, Duration: 42.704567ms, MemDiff: 39272 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 29
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955371520 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 200ms, HeapAlloc Diff: 395816
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 395896, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 6306, Disk I/O Delta: 4096
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 30
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 33, Duration: 202.749673ms, MemDiff: 395976 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 30
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955371520 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 38
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 39
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 588, Disk I/O Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 31
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 39, Duration: 16.230998ms, MemDiff: 39256 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 31
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955371520 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Entering fibonacci ID: 40
+2025/02/24 11:04:19 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 110ms, HeapAlloc Diff: 39112
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39192, Heap Freed Delta: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Network Usage Delta: 748, Disk I/O Delta: 4096
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Calls: 32
+2025/02/24 11:04:19 [TRACEWRAP] Exiting fibonacci, ID: 40, Duration: 156.165327ms, MemDiff: 39272 bytes
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: Total trace records now: 32
+2025/02/24 11:04:19 [TRACEWRAP] DEBUG: System CPU Load: 4.530000, System Mem Usage: 955363328 bytes
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 400ms, HeapAlloc Diff: 217464
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:19 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217544, Heap Freed Delta: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Network Usage Delta: 3962, Disk I/O Delta: 4096
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Calls: 33
+2025/02/24 11:04:20 [TRACEWRAP] Exiting fibonacci, ID: 38, Duration: 367.567512ms, MemDiff: 217624 bytes
+2025/02/24 11:04:20 [TRACEWRAP] DEBUG: Total trace records now: 33
+2025/02/24 11:04:20 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955363328 bytes
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 950ms, HeapAlloc Diff: 753048
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 753128, Heap Freed Delta: 0
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Network Usage Delta: 14384, Disk I/O Delta: 8192
+2025/02/24 11:04:20 [TRACEWRAP] Function fibonacci Calls: 34
+2025/02/24 11:04:20 [TRACEWRAP] Exiting fibonacci, ID: 32, Duration: 842.356945ms, MemDiff: 753208 bytes
+2025/02/24 11:04:20 [TRACEWRAP] DEBUG: Total trace records now: 34
+2025/02/24 11:04:20 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955363328 bytes
+2025/02/24 11:04:20 [TRACEWRAP] Entering fibonacci ID: 41
+2025/02/24 11:04:20 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:20 [TRACEWRAP] Entering fibonacci ID: 42
+2025/02/24 11:04:20 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 43
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 750ms, HeapAlloc Diff: -878200
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -934736, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 916, Disk I/O Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 35
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 43, Duration: 237.978361ms, MemDiff: 0 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 35
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 44
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 110ms, HeapAlloc Diff: 6472
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -58472, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 959, Disk I/O Delta: 4096
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 36
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 44, Duration: 188.872935ms, MemDiff: 0 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 36
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.2s, HeapAlloc Diff: -3146640
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -3146560, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 5627, Disk I/O Delta: 4096
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 37
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 42, Duration: 1.132327173s, MemDiff: 0 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 37
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 45
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 582, Disk I/O Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 38
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 45, Duration: 634.497µs, MemDiff: 39256 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 38
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.81s, HeapAlloc Diff: -2958752
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2958672, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 10579, Disk I/O Delta: 4096
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 39
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 41, Duration: 1.554717803s, MemDiff: 0 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 39
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 4.07s, HeapAlloc Diff: -2066464
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2066384, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 27753, Disk I/O Delta: 12288
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 40
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 31, Duration: 2.54658996s, MemDiff: 0 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 40
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [13]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 9.29s, HeapAlloc Diff: 254344
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 254424, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 75376, Disk I/O Delta: 40960
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 41
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 5, Duration: 6.442551272s, MemDiff: 254504 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 41
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 46
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 6
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 47
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 48
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 49
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 50
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 51
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 528, Disk I/O Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 42
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 51, Duration: 3.17374ms, MemDiff: 39256 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 42
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Entering fibonacci ID: 52
+2025/02/24 11:04:21 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39112
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39176, Heap Freed Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Network Usage Delta: 1274, Disk I/O Delta: 0
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci Calls: 43
+2025/02/24 11:04:21 [TRACEWRAP] Exiting fibonacci, ID: 52, Duration: 52.746505ms, MemDiff: 39256 bytes
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: Total trace records now: 43
+2025/02/24 11:04:21 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:21 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 110ms, HeapAlloc Diff: 217512
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217592, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 3688, Disk I/O Delta: 4096
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 44
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 50, Duration: 211.871005ms, MemDiff: 217704 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 44
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955875328 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Entering fibonacci ID: 53
+2025/02/24 11:04:22 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 180ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 1108, Disk I/O Delta: 4096
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 45
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 53, Duration: 202.541259ms, MemDiff: 39368 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 45
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955867136 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 870ms, HeapAlloc Diff: 396344
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396424, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 7916, Disk I/O Delta: 8192
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 46
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 49, Duration: 846.770773ms, MemDiff: 396536 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 46
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955863040 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Entering fibonacci ID: 54
+2025/02/24 11:04:22 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:22 [TRACEWRAP] Entering fibonacci ID: 55
+2025/02/24 11:04:22 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 50ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 748, Disk I/O Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 47
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 55, Duration: 110.137295ms, MemDiff: 39368 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 47
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955863040 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Entering fibonacci ID: 56
+2025/02/24 11:04:22 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 48
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 56, Duration: 230.456µs, MemDiff: 39352 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 48
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955863040 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 199.999999ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Network Usage Delta: 1906, Disk I/O Delta: 4096
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Calls: 49
+2025/02/24 11:04:22 [TRACEWRAP] Exiting fibonacci, ID: 54, Duration: 153.966649ms, MemDiff: 218104 bytes
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: Total trace records now: 49
+2025/02/24 11:04:22 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955863040 bytes
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:22 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.379999999s, HeapAlloc Diff: 753736
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 753816, Heap Freed Delta: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Network Usage Delta: 15428, Disk I/O Delta: 12288
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Calls: 50
+2025/02/24 11:04:23 [TRACEWRAP] Exiting fibonacci, ID: 48, Duration: 1.220528393s, MemDiff: 753928 bytes
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: Total trace records now: 50
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 955863040 bytes
+2025/02/24 11:04:23 [TRACEWRAP] Entering fibonacci ID: 57
+2025/02/24 11:04:23 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:23 [TRACEWRAP] Entering fibonacci ID: 58
+2025/02/24 11:04:23 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:23 [TRACEWRAP] Entering fibonacci ID: 59
+2025/02/24 11:04:23 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 230ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Network Usage Delta: 1130, Disk I/O Delta: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Calls: 51
+2025/02/24 11:04:23 [TRACEWRAP] Exiting fibonacci, ID: 59, Duration: 216.092092ms, MemDiff: 39368 bytes
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: Total trace records now: 51
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956116992 bytes
+2025/02/24 11:04:23 [TRACEWRAP] Entering fibonacci ID: 60
+2025/02/24 11:04:23 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Network Usage Delta: 748, Disk I/O Delta: 4096
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Calls: 52
+2025/02/24 11:04:23 [TRACEWRAP] Exiting fibonacci, ID: 60, Duration: 85.546282ms, MemDiff: 39368 bytes
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: Total trace records now: 52
+2025/02/24 11:04:23 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956116992 bytes
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 810ms, HeapAlloc Diff: 217960
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218040, Heap Freed Delta: 0
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Network Usage Delta: 3972, Disk I/O Delta: 4096
+2025/02/24 11:04:23 [TRACEWRAP] Function fibonacci Calls: 53
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 58, Duration: 554.085216ms, MemDiff: 218120 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 53
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956116992 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 61
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 30ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 370, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 54
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 61, Duration: 24.467331ms, MemDiff: 39368 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 54
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1s, HeapAlloc Diff: 396712
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396792, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 7990, Disk I/O Delta: 4096
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 55
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 57, Duration: 822.426834ms, MemDiff: 396872 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 55
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.74s, HeapAlloc Diff: 1289896
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 1289976, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 25914, Disk I/O Delta: 16384
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 56
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 47, Duration: 2.186501084s, MemDiff: 1290088 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 56
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 62
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 63
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 64
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 65
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 882, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 57
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 65, Duration: 5.935131ms, MemDiff: 39352 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 57
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 66
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 680, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 58
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 66, Duration: 19.725716ms, MemDiff: 39368 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 58
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 50ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 3648, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 59
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 64, Duration: 36.109668ms, MemDiff: 218104 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 59
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 67
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 522, Disk I/O Delta: 4096
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 60
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 67, Duration: 525.24µs, MemDiff: 39352 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 60
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 59.999999ms, HeapAlloc Diff: 396680
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396760, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 6620, Disk I/O Delta: 4096
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 61
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 63, Duration: 42.299575ms, MemDiff: 396840 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 61
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 68
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 69
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 1630, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 62
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 69, Duration: 82.859058ms, MemDiff: 39352 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 62
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Entering fibonacci ID: 70
+2025/02/24 11:04:24 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 180ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 1316, Disk I/O Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 63
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 70, Duration: 281.282725ms, MemDiff: 39368 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 63
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 680.000001ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 4962, Disk I/O Delta: 4096
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 64
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 68, Duration: 565.150139ms, MemDiff: 218104 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 64
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 740ms, HeapAlloc Diff: 754168
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754248, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 13920, Disk I/O Delta: 8192
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 65
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 62, Duration: 608.855604ms, MemDiff: 754328 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 65
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.650000, System Mem Usage: 956375040 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [8]
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 3.53s, HeapAlloc Diff: 2184664
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2184744, Heap Freed Delta: 0
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Network Usage Delta: 42648, Disk I/O Delta: 28672
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci Calls: 66
+2025/02/24 11:04:24 [TRACEWRAP] Exiting fibonacci, ID: 46, Duration: 3.042901547s, MemDiff: 2184856 bytes
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: Total trace records now: 66
+2025/02/24 11:04:24 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956358656 bytes
+2025/02/24 11:04:24 [TRACEWRAP] Function fibonacci returning [21]
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 13.17s, HeapAlloc Diff: 2578360
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2578440, Heap Freed Delta: 0
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Network Usage Delta: 121618, Disk I/O Delta: 69632
+2025/02/24 11:04:25 [TRACEWRAP] Function fibonacci Calls: 67
+2025/02/24 11:04:25 [TRACEWRAP] Exiting fibonacci, ID: 4, Duration: 9.759483467s, MemDiff: 2578552 bytes
+2025/02/24 11:04:25 [TRACEWRAP] DEBUG: Total trace records now: 67
+2025/02/24 11:04:25 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956358656 bytes
+2025/02/24 11:04:25 [TRACEWRAP] Entering fibonacci ID: 71
+2025/02/24 11:04:25 [TRACEWRAP] Parameter n = 7
+2025/02/24 11:04:25 [TRACEWRAP] Entering fibonacci ID: 72
+2025/02/24 11:04:25 [TRACEWRAP] Parameter n = 6
+2025/02/24 11:04:25 [TRACEWRAP] Entering fibonacci ID: 73
+2025/02/24 11:04:25 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:25 [TRACEWRAP] Entering fibonacci ID: 74
+2025/02/24 11:04:25 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:25 [TRACEWRAP] Entering fibonacci ID: 75
+2025/02/24 11:04:25 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:26 [TRACEWRAP] Entering fibonacci ID: 76
+2025/02/24 11:04:26 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:26 [TRACEWRAP] Entering fibonacci ID: 77
+2025/02/24 11:04:26 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 100ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Network Usage Delta: 1330, Disk I/O Delta: 4096
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Calls: 68
+2025/02/24 11:04:26 [TRACEWRAP] Exiting fibonacci, ID: 77, Duration: 179.792696ms, MemDiff: 39368 bytes
+2025/02/24 11:04:26 [TRACEWRAP] DEBUG: Total trace records now: 68
+2025/02/24 11:04:26 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956358656 bytes
+2025/02/24 11:04:26 [TRACEWRAP] Entering fibonacci ID: 78
+2025/02/24 11:04:26 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 199.999999ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Network Usage Delta: 1795, Disk I/O Delta: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Calls: 69
+2025/02/24 11:04:26 [TRACEWRAP] Exiting fibonacci, ID: 78, Duration: 245.241972ms, MemDiff: 39368 bytes
+2025/02/24 11:04:26 [TRACEWRAP] DEBUG: Total trace records now: 69
+2025/02/24 11:04:26 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956358656 bytes
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.030000001s, HeapAlloc Diff: 217960
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218040, Heap Freed Delta: 0
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Network Usage Delta: 5665, Disk I/O Delta: 4096
+2025/02/24 11:04:26 [TRACEWRAP] Function fibonacci Calls: 70
+2025/02/24 11:04:27 [TRACEWRAP] Exiting fibonacci, ID: 76, Duration: 832.286367ms, MemDiff: 218120 bytes
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: Total trace records now: 70
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956354560 bytes
+2025/02/24 11:04:27 [TRACEWRAP] Entering fibonacci ID: 79
+2025/02/24 11:04:27 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 169.999999ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Network Usage Delta: 854, Disk I/O Delta: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Calls: 71
+2025/02/24 11:04:27 [TRACEWRAP] Exiting fibonacci, ID: 79, Duration: 170.065097ms, MemDiff: 39368 bytes
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: Total trace records now: 71
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956354560 bytes
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.9s, HeapAlloc Diff: 396712
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396792, Heap Freed Delta: 0
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Network Usage Delta: 10413, Disk I/O Delta: 8192
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci Calls: 72
+2025/02/24 11:04:27 [TRACEWRAP] Exiting fibonacci, ID: 75, Duration: 1.533574879s, MemDiff: 396872 bytes
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: Total trace records now: 72
+2025/02/24 11:04:27 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956354560 bytes
+2025/02/24 11:04:27 [TRACEWRAP] Entering fibonacci ID: 80
+2025/02/24 11:04:27 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:27 [TRACEWRAP] Entering fibonacci ID: 81
+2025/02/24 11:04:27 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:27 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39224
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39304, Heap Freed Delta: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Network Usage Delta: 2010, Disk I/O Delta: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Calls: 73
+2025/02/24 11:04:28 [TRACEWRAP] Exiting fibonacci, ID: 81, Duration: 472.833229ms, MemDiff: 39384 bytes
+2025/02/24 11:04:28 [TRACEWRAP] DEBUG: Total trace records now: 73
+2025/02/24 11:04:28 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956350464 bytes
+2025/02/24 11:04:28 [TRACEWRAP] Entering fibonacci ID: 82
+2025/02/24 11:04:28 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 250ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Network Usage Delta: 1984, Disk I/O Delta: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Calls: 74
+2025/02/24 11:04:28 [TRACEWRAP] Exiting fibonacci, ID: 82, Duration: 250.637272ms, MemDiff: 39368 bytes
+2025/02/24 11:04:28 [TRACEWRAP] DEBUG: Total trace records now: 74
+2025/02/24 11:04:28 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956350464 bytes
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.51s, HeapAlloc Diff: 220320
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:28 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 220400, Heap Freed Delta: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Network Usage Delta: 5168, Disk I/O Delta: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Calls: 75
+2025/02/24 11:04:29 [TRACEWRAP] Exiting fibonacci, ID: 80, Duration: 1.111326967s, MemDiff: 220648 bytes
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: Total trace records now: 75
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956350464 bytes
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 4.39s, HeapAlloc Diff: -2602368
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2602288, Heap Freed Delta: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Network Usage Delta: 20093, Disk I/O Delta: 12288
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Calls: 76
+2025/02/24 11:04:29 [TRACEWRAP] Exiting fibonacci, ID: 74, Duration: 3.477823891s, MemDiff: 0 bytes
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: Total trace records now: 76
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: System CPU Load: 4.680000, System Mem Usage: 956350464 bytes
+2025/02/24 11:04:29 [TRACEWRAP] Entering fibonacci ID: 83
+2025/02/24 11:04:29 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:29 [TRACEWRAP] Entering fibonacci ID: 84
+2025/02/24 11:04:29 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:29 [TRACEWRAP] Entering fibonacci ID: 85
+2025/02/24 11:04:29 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 19.999999ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Network Usage Delta: 954, Disk I/O Delta: 0
+2025/02/24 11:04:29 [TRACEWRAP] Function fibonacci Calls: 77
+2025/02/24 11:04:29 [TRACEWRAP] Exiting fibonacci, ID: 85, Duration: 112.354942ms, MemDiff: 39368 bytes
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: Total trace records now: 77
+2025/02/24 11:04:29 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 86
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 120ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 882, Disk I/O Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 78
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 86, Duration: 129.13794ms, MemDiff: 39368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 78
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 490ms, HeapAlloc Diff: 217960
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218040, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 1956, Disk I/O Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 79
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 84, Duration: 332.31845ms, MemDiff: 218120 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 79
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 87
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 80
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 87, Duration: 190.442µs, MemDiff: 39352 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 80
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 650ms, HeapAlloc Diff: 396704
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396784, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 2820, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 81
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 83, Duration: 467.329165ms, MemDiff: 396856 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 81
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 5.91s, HeapAlloc Diff: -2066120
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2066040, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 30291, Disk I/O Delta: 16384
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 82
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 73, Duration: 4.557821889s, MemDiff: 0 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 82
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 88
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 89
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 90
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 91
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 83
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 91, Duration: 201.301µs, MemDiff: 39336 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 83
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 92
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 84
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 92, Duration: 359.511µs, MemDiff: 39352 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 84
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 217912
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217992, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 85
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 90, Duration: 1.361351ms, MemDiff: 218072 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 85
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 93
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 86
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 93, Duration: 19.366996ms, MemDiff: 39336 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 86
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 80.000001ms, HeapAlloc Diff: 396632
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396712, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 60, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 87
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 89, Duration: 64.064039ms, MemDiff: 396792 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 87
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 94
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 95
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 88
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 95, Duration: 227.541µs, MemDiff: 39352 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 88
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Entering fibonacci ID: 96
+2025/02/24 11:04:30 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 130ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 7302, Disk I/O Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 89
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 96, Duration: 157.181431ms, MemDiff: 39368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 89
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 220ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 8180, Disk I/O Delta: 4096
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 90
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 94, Duration: 227.27548ms, MemDiff: 218104 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 90
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 510ms, HeapAlloc Diff: 754120
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754200, Heap Freed Delta: 0
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Network Usage Delta: 12214, Disk I/O Delta: 8192
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci Calls: 91
+2025/02/24 11:04:30 [TRACEWRAP] Exiting fibonacci, ID: 88, Duration: 478.308488ms, MemDiff: 754480 bytes
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: Total trace records now: 91
+2025/02/24 11:04:30 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956346368 bytes
+2025/02/24 11:04:30 [TRACEWRAP] Function fibonacci returning [8]
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 7.2s, HeapAlloc Diff: -1172272
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -1172192, Heap Freed Delta: 0
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Network Usage Delta: 45415, Disk I/O Delta: 24576
+2025/02/24 11:04:31 [TRACEWRAP] Function fibonacci Calls: 92
+2025/02/24 11:04:31 [TRACEWRAP] Exiting fibonacci, ID: 72, Duration: 5.408168832s, MemDiff: 0 bytes
+2025/02/24 11:04:31 [TRACEWRAP] DEBUG: Total trace records now: 92
+2025/02/24 11:04:31 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 956588032 bytes
+2025/02/24 11:04:31 [TRACEWRAP] Entering fibonacci ID: 97
+2025/02/24 11:04:31 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:31 [TRACEWRAP] Entering fibonacci ID: 98
+2025/02/24 11:04:31 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 99
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 100
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 101
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 160ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 732, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 93
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 101, Duration: 105.454995ms, MemDiff: 39368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 93
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 102
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 100ms, HeapAlloc Diff: 39384
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39464, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 1120, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 94
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 102, Duration: 33.062652ms, MemDiff: 39544 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 94
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 880ms, HeapAlloc Diff: 218152
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218232, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 5436, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 95
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 100, Duration: 480.498419ms, MemDiff: 218312 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 95
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 103
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 680, Disk I/O Delta: 4096
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 96
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 103, Duration: 2.052992ms, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 96
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.27s, HeapAlloc Diff: 396888
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396968, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 7906, Disk I/O Delta: 4096
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 97
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 99, Duration: 848.856602ms, MemDiff: 397048 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 97
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 104
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 105
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 632, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 98
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 105, Duration: 1.245336ms, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 98
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 106
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 688, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 99
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 106, Duration: 861.1µs, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 99
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 217912
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217992, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 4142, Disk I/O Delta: 4096
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 100
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 104, Duration: 4.345021ms, MemDiff: 218072 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 100
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.58s, HeapAlloc Diff: 754344
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754424, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 16175, Disk I/O Delta: 8192
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 101
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 98, Duration: 1.056032058s, MemDiff: 754504 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 101
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957882368 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 107
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 108
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 109
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 1032, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 102
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 109, Duration: 5.925094ms, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 102
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 110
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 362, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 103
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 110, Duration: 5.138812ms, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 103
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 30ms, HeapAlloc Diff: 217928
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218008, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 4206, Disk I/O Delta: 4096
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 104
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 108, Duration: 18.93338ms, MemDiff: 218088 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 104
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Entering fibonacci ID: 111
+2025/02/24 11:04:32 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 1458, Disk I/O Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 105
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 111, Duration: 10.523886ms, MemDiff: 39352 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 105
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 40ms, HeapAlloc Diff: 396664
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396744, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 8014, Disk I/O Delta: 4096
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 106
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 107, Duration: 41.685649ms, MemDiff: 396824 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 106
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.16s, HeapAlloc Diff: 1290552
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 1290632, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 30195, Disk I/O Delta: 12288
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 107
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 97, Duration: 1.358925426s, MemDiff: 1290712 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 107
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957632512 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [13]
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 9.93s, HeapAlloc Diff: 257808
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 257888, Heap Freed Delta: 0
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Network Usage Delta: 80546, Disk I/O Delta: 40960
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci Calls: 108
+2025/02/24 11:04:32 [TRACEWRAP] Exiting fibonacci, ID: 71, Duration: 7.376591346s, MemDiff: 257968 bytes
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: Total trace records now: 108
+2025/02/24 11:04:32 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957878272 bytes
+2025/02/24 11:04:32 [TRACEWRAP] Function fibonacci returning [34]
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 24s, HeapAlloc Diff: 2975648
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci GC Runs: 2
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2975728, Heap Freed Delta: 0
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Network Usage Delta: 204996, Disk I/O Delta: 114688
+2025/02/24 11:04:33 [TRACEWRAP] Function fibonacci Calls: 109
+2025/02/24 11:04:33 [TRACEWRAP] Exiting fibonacci, ID: 3, Duration: 17.707082685s, MemDiff: 2975840 bytes
+2025/02/24 11:04:33 [TRACEWRAP] DEBUG: Total trace records now: 109
+2025/02/24 11:04:33 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957878272 bytes
+2025/02/24 11:04:33 [TRACEWRAP] Entering fibonacci ID: 112
+2025/02/24 11:04:33 [TRACEWRAP] Parameter n = 8
+2025/02/24 11:04:33 [TRACEWRAP] Entering fibonacci ID: 113
+2025/02/24 11:04:33 [TRACEWRAP] Parameter n = 7
+2025/02/24 11:04:33 [TRACEWRAP] Entering fibonacci ID: 114
+2025/02/24 11:04:33 [TRACEWRAP] Parameter n = 6
+2025/02/24 11:04:33 [TRACEWRAP] Entering fibonacci ID: 115
+2025/02/24 11:04:33 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:34 [TRACEWRAP] Entering fibonacci ID: 116
+2025/02/24 11:04:34 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:34 [TRACEWRAP] Entering fibonacci ID: 117
+2025/02/24 11:04:34 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:34 [TRACEWRAP] Entering fibonacci ID: 118
+2025/02/24 11:04:34 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:34 [TRACEWRAP] Entering fibonacci ID: 119
+2025/02/24 11:04:34 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Network Usage Delta: 680, Disk I/O Delta: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Calls: 110
+2025/02/24 11:04:34 [TRACEWRAP] Exiting fibonacci, ID: 119, Duration: 43.937667ms, MemDiff: 39352 bytes
+2025/02/24 11:04:34 [TRACEWRAP] DEBUG: Total trace records now: 110
+2025/02/24 11:04:34 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:34 [TRACEWRAP] Entering fibonacci ID: 120
+2025/02/24 11:04:34 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Network Usage Delta: 938, Disk I/O Delta: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Calls: 111
+2025/02/24 11:04:34 [TRACEWRAP] Exiting fibonacci, ID: 120, Duration: 86.365927ms, MemDiff: 39368 bytes
+2025/02/24 11:04:34 [TRACEWRAP] DEBUG: Total trace records now: 111
+2025/02/24 11:04:34 [TRACEWRAP] DEBUG: System CPU Load: 4.780000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 910ms, HeapAlloc Diff: -3103424
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:34 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -3103328, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 5460, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 112
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 118, Duration: 793.206426ms, MemDiff: 218136 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 112
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 121
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 70ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 1368, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 113
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 121, Duration: 83.507485ms, MemDiff: 39368 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 113
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.91s, HeapAlloc Diff: -2922360
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2922280, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 8212, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 114
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 117, Duration: 1.048669087s, MemDiff: 0 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 114
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 122
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 123
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 115
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 123, Duration: 164.695µs, MemDiff: 39336 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 115
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 124
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 116
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 124, Duration: 191.727µs, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 116
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 217912
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217976, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 117
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 122, Duration: 30.4821ms, MemDiff: 218056 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 117
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.129999999s, HeapAlloc Diff: -2565032
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2564728, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 12780, Disk I/O Delta: 8192
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 118
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 116, Duration: 1.281488202s, MemDiff: 0 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 118
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 125
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 126
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 127
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 468, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 119
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 127, Duration: 506.195µs, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 119
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 128
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 422, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 120
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 128, Duration: 305.135µs, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 120
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 217928
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 217992, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 2302, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 121
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 126, Duration: 1.845379ms, MemDiff: 218072 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 121
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 129
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 1112, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 122
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 129, Duration: 390.405µs, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 122
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 396648
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396712, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 4518, Disk I/O Delta: 4096
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 123
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 125, Duration: 3.218653ms, MemDiff: 396792 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 123
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 2.5s, HeapAlloc Diff: -2028744
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -2028664, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 19944, Disk I/O Delta: 16384
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 124
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 115, Duration: 1.522024063s, MemDiff: 0 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 124
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 130
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 131
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 132
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 133
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 1170, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 125
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 133, Duration: 604.363µs, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 125
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 134
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 1212, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 126
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 134, Duration: 37.537506ms, MemDiff: 39352 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 126
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 120ms, HeapAlloc Diff: 218104
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218184, Heap Freed Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Network Usage Delta: 6014, Disk I/O Delta: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Calls: 127
+2025/02/24 11:04:35 [TRACEWRAP] Exiting fibonacci, ID: 132, Duration: 204.785888ms, MemDiff: 218264 bytes
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: Total trace records now: 127
+2025/02/24 11:04:35 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957874176 bytes
+2025/02/24 11:04:35 [TRACEWRAP] Entering fibonacci ID: 135
+2025/02/24 11:04:35 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 160ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:35 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 3348, Disk I/O Delta: 4096
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 128
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 135, Duration: 418.021177ms, MemDiff: 39368 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 128
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 899.999999ms, HeapAlloc Diff: 396856
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396936, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 13356, Disk I/O Delta: 4096
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 129
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 131, Duration: 748.673738ms, MemDiff: 397016 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 129
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 136
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 137
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 29.999999ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 1420, Disk I/O Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 130
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 137, Duration: 98.684177ms, MemDiff: 39368 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 130
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 138
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 131
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 138, Duration: 1.086005ms, MemDiff: 39336 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 131
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 210.000001ms, HeapAlloc Diff: 217928
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218008, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 3710, Disk I/O Delta: 4096
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 132
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 136, Duration: 170.907001ms, MemDiff: 218088 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 132
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.13s, HeapAlloc Diff: 754328
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754408, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 20176, Disk I/O Delta: 8192
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 133
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 130, Duration: 972.471678ms, MemDiff: 754488 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 133
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [8]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 3.76s, HeapAlloc Diff: -1134984
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -1134904, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 41478, Disk I/O Delta: 24576
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 134
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 114, Duration: 2.777248673s, MemDiff: 0 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 134
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 139
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 140
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 141
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 142
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 143
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 170ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 645, Disk I/O Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 135
+2025/02/24 11:04:36 [TRACEWRAP] Exiting fibonacci, ID: 143, Duration: 114.986754ms, MemDiff: 39368 bytes
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: Total trace records now: 135
+2025/02/24 11:04:36 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957853696 bytes
+2025/02/24 11:04:36 [TRACEWRAP] Entering fibonacci ID: 144
+2025/02/24 11:04:36 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 300ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Network Usage Delta: 1856, Disk I/O Delta: 4096
+2025/02/24 11:04:36 [TRACEWRAP] Function fibonacci Calls: 136
+2025/02/24 11:04:37 [TRACEWRAP] Exiting fibonacci, ID: 144, Duration: 211.271583ms, MemDiff: 39368 bytes
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: Total trace records now: 136
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957849600 bytes
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 830ms, HeapAlloc Diff: 218136
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218216, Heap Freed Delta: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Network Usage Delta: 5571, Disk I/O Delta: 4096
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Calls: 137
+2025/02/24 11:04:37 [TRACEWRAP] Exiting fibonacci, ID: 142, Duration: 982.232303ms, MemDiff: 218296 bytes
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: Total trace records now: 137
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957849600 bytes
+2025/02/24 11:04:37 [TRACEWRAP] Entering fibonacci ID: 145
+2025/02/24 11:04:37 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 250ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Network Usage Delta: 1844, Disk I/O Delta: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Calls: 138
+2025/02/24 11:04:37 [TRACEWRAP] Exiting fibonacci, ID: 145, Duration: 276.502746ms, MemDiff: 39368 bytes
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: Total trace records now: 138
+2025/02/24 11:04:37 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 957845504 bytes
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 1.69s, HeapAlloc Diff: 396888
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:37 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396968, Heap Freed Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Network Usage Delta: 10371, Disk I/O Delta: 4096
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Calls: 139
+2025/02/24 11:04:38 [TRACEWRAP] Exiting fibonacci, ID: 141, Duration: 1.673862811s, MemDiff: 397048 bytes
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: Total trace records now: 139
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958103552 bytes
+2025/02/24 11:04:38 [TRACEWRAP] Entering fibonacci ID: 146
+2025/02/24 11:04:38 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:38 [TRACEWRAP] Entering fibonacci ID: 147
+2025/02/24 11:04:38 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 120ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Network Usage Delta: 1312, Disk I/O Delta: 4096
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Calls: 140
+2025/02/24 11:04:38 [TRACEWRAP] Exiting fibonacci, ID: 147, Duration: 184.520924ms, MemDiff: 39368 bytes
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: Total trace records now: 140
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958103552 bytes
+2025/02/24 11:04:38 [TRACEWRAP] Entering fibonacci ID: 148
+2025/02/24 11:04:38 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 160ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Network Usage Delta: 1346, Disk I/O Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Calls: 141
+2025/02/24 11:04:38 [TRACEWRAP] Exiting fibonacci, ID: 148, Duration: 166.922771ms, MemDiff: 39368 bytes
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: Total trace records now: 141
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958103552 bytes
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 849.999999ms, HeapAlloc Diff: 217960
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218040, Heap Freed Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Network Usage Delta: 5158, Disk I/O Delta: 4096
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Calls: 142
+2025/02/24 11:04:38 [TRACEWRAP] Exiting fibonacci, ID: 146, Duration: 777.684021ms, MemDiff: 218120 bytes
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: Total trace records now: 142
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 3.08s, HeapAlloc Diff: 754392
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754472, Heap Freed Delta: 0
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Network Usage Delta: 17627, Disk I/O Delta: 8192
+2025/02/24 11:04:38 [TRACEWRAP] Function fibonacci Calls: 143
+2025/02/24 11:04:38 [TRACEWRAP] Exiting fibonacci, ID: 140, Duration: 2.563314988s, MemDiff: 754552 bytes
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: Total trace records now: 143
+2025/02/24 11:04:38 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 149
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 150
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 151
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 882, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 144
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 151, Duration: 11.507661ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 144
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 152
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 1476, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 145
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 152, Duration: 9.803736ms, MemDiff: 39368 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 145
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 90ms, HeapAlloc Diff: 220248
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 220328, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 4300, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 146
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 150, Duration: 69.395355ms, MemDiff: 220408 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 146
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 153
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 962, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 147
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 153, Duration: 3.669836ms, MemDiff: 39368 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 147
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 180.000001ms, HeapAlloc Diff: 257272
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 257352, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 8098, Disk I/O Delta: 8192
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 148
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 149, Duration: 92.819674ms, MemDiff: 163480 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 148
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 3.42s, HeapAlloc Diff: 938312
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 938392, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 28313, Disk I/O Delta: 16384
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 149
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 139, Duration: 2.757435472s, MemDiff: 0 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 149
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [13]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 7.54s, HeapAlloc Diff: -1241592
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 2
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -1566632, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 72935, Disk I/O Delta: 40960
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 150
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 113, Duration: 5.757383424s, MemDiff: 0 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 150
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 154
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 6
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 155
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 5
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 156
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 157
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 158
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 159
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 202, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 151
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 159, Duration: 3.033524ms, MemDiff: 39336 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 151
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 160
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 422, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 152
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 160, Duration: 518.8µs, MemDiff: 39368 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 152
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 30ms, HeapAlloc Diff: 218088
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218168, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 3432, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 153
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 158, Duration: 15.520394ms, MemDiff: 218248 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 153
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 161
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 1438, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 154
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 161, Duration: 1.476343ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 154
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 30ms, HeapAlloc Diff: 396824
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396904, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 5486, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 155
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 157, Duration: 25.344548ms, MemDiff: 396984 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 155
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 162
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 163
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 202, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 156
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 163, Duration: 692.243µs, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 156
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 164
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 558, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 157
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 164, Duration: 5.416287ms, MemDiff: 39368 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 157
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 19.999999ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 3772, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 158
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 162, Duration: 14.238414ms, MemDiff: 218104 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 158
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 59.999999ms, HeapAlloc Diff: 754312
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754392, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 11856, Disk I/O Delta: 8192
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 159
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 156, Duration: 53.667475ms, MemDiff: 754472 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 159
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 165
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 166
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 167
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10.000001ms, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39288, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 262, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 160
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 167, Duration: 1.05501ms, MemDiff: 39368 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 160
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 168
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 1298, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 161
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 168, Duration: 1.634244ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 161
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10.000001ms, HeapAlloc Diff: 217944
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218024, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 4132, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 162
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 166, Duration: 4.694727ms, MemDiff: 218104 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 162
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 169
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 942, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 163
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 169, Duration: 1.00426ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 163
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20.000001ms, HeapAlloc Diff: 396680
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396760, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 7172, Disk I/O Delta: 8192
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 164
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 165, Duration: 11.726602ms, MemDiff: 396840 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 164
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [5]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 90ms, HeapAlloc Diff: 1290536
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 1290616, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 22244, Disk I/O Delta: 16384
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 165
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 155, Duration: 67.789515ms, MemDiff: 1290696 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 165
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 170
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 4
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 171
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 3
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 172
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 173
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 882, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 166
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 173, Duration: 683.818µs, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 166
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 174
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 1202, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 167
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 174, Duration: 893.566µs, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 167
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 217928
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218008, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 3966, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 168
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 172, Duration: 5.77059ms, MemDiff: 218088 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 168
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 175
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 680, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 169
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 175, Duration: 1.396515ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 169
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [2]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 396664
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 396744, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 7314, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 170
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 171, Duration: 9.119298ms, MemDiff: 396824 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 170
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 176
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 2
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 177
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 1
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 882, Disk I/O Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 171
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 177, Duration: 963.693µs, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 171
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Entering fibonacci ID: 178
+2025/02/24 11:04:39 [TRACEWRAP] Parameter n = 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [0]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39208
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 39272, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 1238, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 172
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 178, Duration: 3.017523ms, MemDiff: 39352 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 172
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [1]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 10ms, HeapAlloc Diff: 217928
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 218008, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 3548, Disk I/O Delta: 4096
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 173
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 176, Duration: 5.490425ms, MemDiff: 218088 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 173
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958099456 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [3]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 20ms, HeapAlloc Diff: 754136
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 754216, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 14180, Disk I/O Delta: 8192
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 174
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 170, Duration: 19.761176ms, MemDiff: 754296 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 174
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958365696 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [8]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 110ms, HeapAlloc Diff: 2184216
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2184296, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 38216, Disk I/O Delta: 24576
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 175
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 154, Duration: 89.538778ms, MemDiff: 2184376 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 175
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958365696 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [21]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 7.75s, HeapAlloc Diff: -680760
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 2
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: -680680, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 113015, Disk I/O Delta: 65536
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 176
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 112, Duration: 5.903542734s, MemDiff: 0 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 176
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958365696 bytes
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci returning [55]
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Resource Usage - CPU Time: 32.13s, HeapAlloc Diff: 2434512
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci GC Runs: 4
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Heap Allocated Delta: 2434592, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Network Usage Delta: 321567, Disk I/O Delta: 184320
+2025/02/24 11:04:39 [TRACEWRAP] Function fibonacci Calls: 177
+2025/02/24 11:04:39 [TRACEWRAP] Exiting fibonacci, ID: 2, Duration: 23.772696047s, MemDiff: 2434704 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 177
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958365696 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Generating DOT with 177 trace records
+2025/02/24 11:04:39 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
+2025/02/24 11:04:39 [TRACEWRAP] Function main Resource Usage - CPU Time: 32.13s, HeapAlloc Diff: 2856368
+2025/02/24 11:04:39 [TRACEWRAP] Function main Goroutines Spawned: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function main Additional OS Threads Used: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function main GC Runs: 4
+2025/02/24 11:04:39 [TRACEWRAP] Function main Heap Allocated Delta: 2856448, Heap Freed Delta: 0
+2025/02/24 11:04:39 [TRACEWRAP] Function main Network Usage Delta: 322875, Disk I/O Delta: 221184
+2025/02/24 11:04:39 [TRACEWRAP] Function main Calls: 1
+2025/02/24 11:04:39 [TRACEWRAP] Exiting main, ID: 1, Duration: 23.775085604s, MemDiff: 2856576 bytes
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: Total trace records now: 178
+2025/02/24 11:04:39 [TRACEWRAP] DEBUG: System CPU Load: 4.880000, System Mem Usage: 958365696 bytes

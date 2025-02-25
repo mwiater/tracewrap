@@ -1,0 +1,11 @@
+digraph CallGraph {
+  node [shape=box, style=filled, color="lightblue"];
+  2 [label="add\nID: 2\nDuration: 898.888µs\nMemDiff: 39736 bytes\nSysLoad: 2.72, SysMem: 950583296 bytes\nParams:\n  a = 10...\n  b = 5...\nReturns:\n  [0] 15..."];
+  3 [label="subtract\nID: 3\nDuration: 20.992402ms\nMemDiff: 39304 bytes\nSysLoad: 2.72, SysMem: 950583296 bytes\nParams:\n  a = 10...\n  b = 5...\nReturns:\n  [0] 5..."];
+  4 [label="multiply\nID: 4\nDuration: 841.484µs\nMemDiff: 39304 bytes\nSysLoad: 2.72, SysMem: 951099392 bytes\nParams:\n  a = 10...\n  b = 5...\nReturns:\n  [0] 50..."];
+  5 [label="divide\nID: 5\nDuration: 231.445µs\nMemDiff: 39200 bytes\nSysLoad: 2.72, SysMem: 951099392 bytes\nParams:\n  a = 10...\n  b = 5..."];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+}

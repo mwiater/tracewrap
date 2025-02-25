@@ -1,0 +1,17 @@
+# tracewrap/config/tracewrap.yaml.example
+instrumentation:
+  enable: true
+  include:
+    # - "github.com/myproject/packageA"
+    # - "github.com/myproject/packageB"
+  exclude:
+    # - "github.com/myproject/packageA/internal"
+logging:
+  level: "debug"          # Options: debug, info, warn, error
+  output: "tracewrap.log" # Log file path
+tracing:
+  outputFormat: "json"    # Options: json, dot
+  dumpOnExit: true        # Dump aggregated trace data on application exit
+visualization:
+  generateCallGraph: true
+  callGraphOutput: "callgraph.dot"  # File to store the generated DOT graph

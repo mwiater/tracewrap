@@ -1,0 +1,68 @@
+2025/02/24 11:10:23 [TRACEWRAP] Entering main ID: 1
+2025/02/24 11:10:23 [TRACEWRAP] Entering add ID: 2
+2025/02/24 11:10:23 [TRACEWRAP] Parameter a = 10
+2025/02/24 11:10:23 [TRACEWRAP] Parameter b = 5
+2025/02/24 11:10:23 [TRACEWRAP] Function add returning [15]
+2025/02/24 11:10:23 [TRACEWRAP] Function add Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39176
+2025/02/24 11:10:23 [TRACEWRAP] Function add Goroutines Spawned: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function add Additional OS Threads Used: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function add GC Runs: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function add Heap Allocated Delta: 39464, Heap Freed Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function add Network Usage Delta: 170, Disk I/O Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function add Calls: 1
+2025/02/24 11:10:23 [TRACEWRAP] Exiting add, ID: 2, Duration: 898.888µs, MemDiff: 39736 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Total trace records now: 1
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: System CPU Load: 2.720000, System Mem Usage: 950583296 bytes
+2025/02/24 11:10:23 [TRACEWRAP] Entering subtract ID: 3
+2025/02/24 11:10:23 [TRACEWRAP] Parameter a = 10
+2025/02/24 11:10:23 [TRACEWRAP] Parameter b = 5
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract returning [5]
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Resource Usage - CPU Time: 60ms, HeapAlloc Diff: 39144
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Goroutines Spawned: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Additional OS Threads Used: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract GC Runs: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Heap Allocated Delta: 39224, Heap Freed Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Network Usage Delta: 726, Disk I/O Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function subtract Calls: 1
+2025/02/24 11:10:23 [TRACEWRAP] Exiting subtract, ID: 3, Duration: 20.992402ms, MemDiff: 39304 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Total trace records now: 2
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: System CPU Load: 2.720000, System Mem Usage: 950583296 bytes
+2025/02/24 11:10:23 [TRACEWRAP] Entering multiply ID: 4
+2025/02/24 11:10:23 [TRACEWRAP] Parameter a = 10
+2025/02/24 11:10:23 [TRACEWRAP] Parameter b = 5
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply returning [50]
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39160
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Goroutines Spawned: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Additional OS Threads Used: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply GC Runs: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Heap Allocated Delta: 39224, Heap Freed Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Network Usage Delta: 744, Disk I/O Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function multiply Calls: 1
+2025/02/24 11:10:23 [TRACEWRAP] Exiting multiply, ID: 4, Duration: 841.484µs, MemDiff: 39304 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Total trace records now: 3
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: System CPU Load: 2.720000, System Mem Usage: 951099392 bytes
+2025/02/24 11:10:23 [TRACEWRAP] Entering divide ID: 5
+2025/02/24 11:10:23 [TRACEWRAP] Parameter a = 10
+2025/02/24 11:10:23 [TRACEWRAP] Parameter b = 5
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Resource Usage - CPU Time: 0s, HeapAlloc Diff: 39072
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Goroutines Spawned: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Additional OS Threads Used: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function divide GC Runs: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Heap Allocated Delta: 39136, Heap Freed Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Network Usage Delta: 0, Disk I/O Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function divide Calls: 1
+2025/02/24 11:10:23 [TRACEWRAP] Exiting divide, ID: 5, Duration: 231.445µs, MemDiff: 39200 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Total trace records now: 4
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: System CPU Load: 2.720000, System Mem Usage: 951099392 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Generating DOT with 4 trace records
+2025/02/24 11:10:23 [TRACEWRAP] Call graph written to: tracewrap/callgraph.dot
+2025/02/24 11:10:23 [TRACEWRAP] Function main Resource Usage - CPU Time: 160ms, HeapAlloc Diff: 410640
+2025/02/24 11:10:23 [TRACEWRAP] Function main Goroutines Spawned: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function main Additional OS Threads Used: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function main GC Runs: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function main Heap Allocated Delta: 411056, Heap Freed Delta: 0
+2025/02/24 11:10:23 [TRACEWRAP] Function main Network Usage Delta: 7481, Disk I/O Delta: 12288
+2025/02/24 11:10:23 [TRACEWRAP] Function main Calls: 1
+2025/02/24 11:10:23 [TRACEWRAP] Exiting main, ID: 1, Duration: 338.81819ms, MemDiff: 411152 bytes
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: Total trace records now: 5
+2025/02/24 11:10:23 [TRACEWRAP] DEBUG: System CPU Load: 2.720000, System Mem Usage: 951357440 bytes

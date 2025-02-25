@@ -1,0 +1,27 @@
+digraph CallGraph {
+  node [shape=box, style=filled, color="lightblue"];
+  2 [label="homeHandler\nID: 2\nDuration: 167.7741ms\nMemDiff: 115568 bytes\nSysLoad: 0.000000, SysMem: 8074661888 bytes\nParams:w = &{conn:0xc000196\n"];
+  3 [label="homeHandler\nID: 3\nDuration: 177.7283ms\nMemDiff: 115520 bytes\nSysLoad: 0.000000, SysMem: 8082833408 bytes\nParams:w = &{conn:0xc000196\n"];
+  4 [label="homeHandler\nID: 4\nDuration: 157.5079ms\nMemDiff: 110688 bytes\nSysLoad: 0.000000, SysMem: 8110448640 bytes\nParams:w = &{conn:0xc000196\n"];
+  5 [label="helloHandler\nID: 5\nDuration: 631.6891ms\nMemDiff: 111856 bytes\nSysLoad: 0.000000, SysMem: 8053260288 bytes\nParams:w = &{conn:0xc000196\n"];
+  6 [label="homeHandler\nID: 6\nDuration: 167.8919ms\nMemDiff: 110688 bytes\nSysLoad: 0.000000, SysMem: 8052793344 bytes\nParams:w = &{conn:0xc000196\n"];
+  7 [label="homeHandler\nID: 7\nDuration: 134.3709ms\nMemDiff: 113496 bytes\nSysLoad: 0.000000, SysMem: 8098811904 bytes\nParams:w = &{conn:0xc000196\n"];
+  8 [label="timeHandler\nID: 8\nDuration: 376.9792ms\nMemDiff: 111976 bytes\nSysLoad: 0.000000, SysMem: 8091115520 bytes\nParams:w = &{conn:0xc000196\n"];
+  9 [label="homeHandler\nID: 9\nDuration: 125.8089ms\nMemDiff: 112560 bytes\nSysLoad: 0.000000, SysMem: 8090112000 bytes\nParams:w = &{conn:0xc000196\n"];
+  10 [label="helloHandler\nID: 10\nDuration: 636.6467ms\nMemDiff: 117176 bytes\nSysLoad: 0.000000, SysMem: 8108081152 bytes\nParams:w = &{conn:0xc000196\n"];
+  11 [label="homeHandler\nID: 11\nDuration: 121.1012ms\nMemDiff: 110672 bytes\nSysLoad: 0.000000, SysMem: 8108060672 bytes\nParams:w = &{conn:0xc000196\n"];
+  12 [label="homeHandler\nID: 12\nDuration: 136.5294ms\nMemDiff: 111056 bytes\nSysLoad: 0.000000, SysMem: 8093859840 bytes\nParams:w = &{conn:0xc000196\n"];
+  13 [label="homeHandler\nID: 13\nDuration: 121.7399ms\nMemDiff: 110688 bytes\nSysLoad: 0.000000, SysMem: 8099041280 bytes\nParams:w = &{conn:0xc000196\n"];
+  1 -> 2;
+  1 -> 3;
+  1 -> 4;
+  1 -> 5;
+  1 -> 6;
+  1 -> 7;
+  1 -> 8;
+  1 -> 9;
+  1 -> 10;
+  1 -> 11;
+  1 -> 12;
+  1 -> 13;
+}
