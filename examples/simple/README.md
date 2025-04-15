@@ -40,8 +40,6 @@ trace:
   output: trace.log
 ```
 
-Place this file in the root of the `examples/simple` directory so that when you run the Tracewrap tool, it picks up the local configuration.
-
 ## Running Tracewrap Against This Project
 
 1. **Navigate to the Project Directory:**

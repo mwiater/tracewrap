@@ -17,16 +17,6 @@ go build -o bin/tracewrap ./cmd/main.go
 
 This command compiles the Tracewrap tool and places the executable in the `/bin` directory.
 
-## Module Initialization
-
-For this example project, initialize the module with:
-
-```bash
-go mod init github.com/mwiater/tracewrap-recursive
-```
-
-Ensure that your `go.mod` file in this directory reflects the above module path.
-
 ## tracewrap.yaml Configuration
 
 This project includes a `tracewrap.yaml` file that instructs Tracewrap how to instrument and trace the project. A sample configuration is provided below:
@@ -43,8 +33,6 @@ trace:
     - []
   output: trace.log
 ```
-
-Place this file in the root of the `examples/recursive` directory so that when you run the Tracewrap tool, it picks up the local configuration.
 
 ## Running Tracewrap Against This Project
 

@@ -4,6 +4,8 @@
 
 This is public due to how it works--it relies on pulling down the latest public release for instrumenting my development applications. You're welcome to poke around and see what's under the hood, but as a solo engineer, **I'm currently supporting it for how I use it.**
 
+**The easiest place to start is by running the [Example Projects](#example-projects).** These examples give a full demonstration of how to use Tracewrap in difference project scenarios.
+
 _If this project interests you let me know: get in touch, star it, follow it, whatever. I'll gauge any interest, reevaluate._
 
 ---
